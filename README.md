@@ -1,140 +1,131 @@
-# BLOC. Gelato System — Enterprise Resource Planning (ERP)
+# BLOC. Gelato Enterprise ERP System
 
-[![Next.js](https://img.shields.io/badge/Next.js-15.0%2B-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-emerald?style=for-the-badge&logo=supabase)](https://supabase.com/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4%2B-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+BLOC. Gelato Enterprise ERP is a production-grade point-of-sale (POS), kitchen production, showcase freezer management, and executive analytics management system engineered specifically for artisanal gelato operations.
 
-An enterprise-grade, real-time Gelato Shop ERP system engineered for multi-role operations, precision Bill of Materials (BOM) inventory tracking, 54-slot freezer showcase management, point-of-sale (POS) cashier transactions, and real-time financial reporting.
+The application implements a strict 4-role access control system (Owner, Manager, Kitchen, Cashier), real-time inventory tracking down to raw ingredient grams, 54-slot showcase freezer tub shelf-life tracking, and 69 master gelato formulations with bill-of-materials (BOM) calculation engine.
 
 ---
 
-## 🌟 Key Features
+## Core Operational Modules
 
-### 🍦 1. Master Gelato Catalog & BOM Recipe Engine
-* **69 Master Flavor Formulations** across 9 series:
-  * **Milk Series**: 10 variants (`flv-milk-01` to `flv-milk-10`)
-  * **Chocolate Series**: 10 variants (`flv-choco-01` to `flv-choco-10`)
-  * **Peanut & Nuts Series**: 8 variants (`flv-nuts-01` to `flv-nuts-08`)
-  * **Fruit Series**: 9 variants (`flv-fruit-01` to `flv-fruit-09`)
-  * **Dairy-Free / Sorbetto Series**: 9 variants (`flv-dairyfree-01` to `flv-dairyfree-09`)
-  * **Dessert Series**: 7 variants (`flv-dessert-01` to `flv-dessert-07`)
-  * **Tea Series**: 4 variants (`flv-tea-01` to `flv-tea-04`)
-  * **Coffee Series**: 4 variants (`flv-coffee-01` to `flv-coffee-04`)
-  * **Seasonal Series**: 8 variants (`flv-seasonal-01` to `flv-seasonal-08`)
-* **Precision Recipe Breakdown**: 612 detailed ingredient specifications (`gramsBatch`, `grams1kg`, fat percentage, POD, PAC, target overrun, and estimated COGS).
+### 1. Master Gelato Catalog & Formulation Engine
+- Pre-configured dataset covering 69 master gelato formulations across 9 distinct series (Milk, Chocolate, Peanut & Nuts, Fruit, Dairy-Free / Sorbetto, Dessert, Tea, Coffee, and Seasonal).
+- Master base formulation analytics including fat percentage, MSNF (Milk Solids-Not-Fat), total solids, POD (sweetness index), PAC (freezing point depression), and target overrun percentages.
+- Gram-level Bill of Materials (BOM) breakdown for 3kg batch production and 1kg base scaling.
 
-### ❄️ 2. 54 Showcase Display Slot Freezer Management
-* Real-time slot management across **Freezers A, B, and C** (18 slots each).
-* Tub freshness tracking with open days counter and automated alert warnings for tubs approaching 8 days maximum shelf life.
-* One-click batch assignment and tub status updates (Active, Empty, Discarded).
+### 2. Showcase Display Slot Management
+- Real-time slot control across 54 showcase display positions divided into Freezers A, B, and C (18 slots each).
+- Automated shelf-life tracker monitoring tub open days with alert indicators when approaching the maximum 8-day freshness threshold.
+- One-touch status transitions (Active, Empty, Discarded) and batch ID traceability.
 
-### 💳 3. Smart POS Cashier Terminal
-* Quick scoop & tub ordering (Piccolo, Medio, Grande, Takeaway Tubs, Cones).
-* Member loyalty system with tier calculation and point accrual.
-* Cashier shift opening/closing reconciliation with cash register balance tracking.
+### 3. POS Cashier & Member Loyalty Terminal
+- Fast-touch order processing supporting multiple serving sizes (Piccolo 120ml, Medio 200ml, Grande 350ml, Takeaway Tubs 500g, and Artisanal Waffle Cones).
+- Integrated member loyalty system supporting tier progression (Silver, Gold, Platinum) and point accrual logic.
+- Cashier shift lifecycle management with opening float balance and closing register reconciliation.
 
-### 🏭 4. Kitchen Production & Inventory Control
-* Automated raw material deduction based on production batch yield.
-* Restock threshold alerts for raw materials, packaging, toppings, and sauces.
-* Batch waste logging and quality assurance recording.
+### 4. Kitchen Production & Inventory Control
+- Automated raw material deductions matched against production batch yields.
+- Reorder threshold monitoring for raw ingredients, packaging, toppings, and flavor swirls.
+- Production batch logging, quality control recording, and waste audit tracking.
 
-### 📊 5. Executive Analytics & Multi-Role Governance
-* **Strict 4-Role Architecture**: `owner`, `manager`, `kitchen`, and `cashier`.
-* Real-time sales reporting, profit margins, inventory valuation, and audit logs.
+### 5. Executive Governance & Financial Analytics
+- Role-based access control (RBAC) supporting four distinct roles: Owner, Manager, Kitchen, and Cashier.
+- Comprehensive sales reporting, estimated COGS per scoop/tub, profit margin calculations, and immutable audit logs.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Architecture
 
-* **Frontend**: Next.js 15 (App Router, Turbopack, React 19)
-* **Styling**: Tailwind CSS, Lucide Icons, Glassmorphism UI
-* **State Management**: Zustand
-* **Database & BaaS**: Supabase PostgreSQL (14 Relational Tables with RLS Security Policies)
-* **Type Safety**: TypeScript 5 (Strict Mode Enabled)
+- Frontend Framework: Next.js 15 (App Router, Turbopack, React 19)
+- Interface & Styling: Tailwind CSS, Vanilla CSS, Responsive Glassmorphism UI
+- State Management: Zustand Global State Store
+- Database Layer: Supabase PostgreSQL (14 Relational Tables with Row Level Security Policies)
+- Type Safety: TypeScript 5 (Strict Mode)
 
 ---
 
-## 📂 Project Structure
+## Repository Structure
 
 ```
 system-bloc-gelato/
 ├── docs/                             # Database Schemas & Initial Seed SQL Files
 │   ├── 01_schema_structure.sql       # DDL: 14 Tables, RLS Policies, Triggers
-│   ├── 02_seed_initial_data.sql       # DML: User Profiles, 69 Flavors, Inventory, Showcase
+│   ├── 02_seed_initial_data.sql       # DML: Profiles, 69 Flavors, Inventory, Showcase
 │   ├── 03_seed_bom_recipes.sql       # DML: 69 Master Recipes & 612 BOM Ingredients
-│   └── database_schema.sql           # Unified Single SQL File for Supabase SQL Editor
+│   └── database_schema.sql           # Unified Single SQL Script for Supabase SQL Editor
 ├── src/
-│   ├── app/                          # Next.js App Router Page Layouts & Routes
-│   ├── components/                   # Modular UI Components (Cashier, Kitchen, Manager, Owner)
+│   ├── app/                          # Next.js App Router Layouts and Pages
+│   ├── components/                   # Modular Role-Based UI Components
 │   ├── lib/
-│   │   ├── constants/                # Gelato Master Formulations & Recipes Dataset
-│   │   └── supabase/                 # Supabase Client & Data Synchronization Service
-│   ├── store/                        # Zustand Global State Stores
-│   └── types/                        # TypeScript Interfaces & Data Models
+│   │   ├── constants/                # Gelato Master Formulations Dataset
+│   │   └── supabase/                 # Supabase Client and Service Synchronization
+│   ├── store/                        # Zustand Global Stores
+│   └── types/                        # TypeScript Type Definitions
 ├── supabase/
 │   └── migrations/                   # Supabase CLI Migration Files
 ├── .env.example                      # Environment Variable Template
-├── .gitignore                        # Git Exclusion Configuration
-├── package.json                      # Project Dependencies & Build Scripts
-└── README.md                         # Project Documentation
+├── .gitignore                        # Version Control Exclusion Configuration
+├── package.json                      # Project Manifest and Scripts
+└── README.md                         # Technical Project Documentation
 ```
 
 ---
 
-## 🚀 Quick Start Guide
+## Setup and Installation
 
 ### Prerequisites
-* **Node.js**: v18.17.0 or later
-* **npm**: v9.0.0 or later
-* **Supabase Account**: Free tier at [supabase.com](https://supabase.com)
+- Node.js v18.17.0 or higher
+- npm v9.0.0 or higher
+- Supabase Project Instance
 
-### 1. Clone & Install Dependencies
+### 1. Installation
+Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/amxzz/Bloc..git
 cd system-bloc-gelato
 npm install
 ```
 
-### 2. Configure Environment Variables
-Copy `.env.example` to `.env.local` and add your Supabase credentials:
+### 2. Environment Configuration
+Create a `.env.local` file in the project root based on `.env.example`:
 ```bash
 cp .env.example .env.local
 ```
-Fill in your `.env.local`:
+
+Set your Supabase credentials in `.env.local`:
 ```env
-NEXT_PUBLIC_SUPABASE_URL=https://your-supabase-project.supabase.co
-NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_your_key_here
+NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co
+NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_key_here
 ```
 
-### 3. Database Setup (Supabase)
-1. Log in to [Supabase](https://supabase.com) and navigate to your project.
-2. Go to **SQL Editor** -> Click **New Query**.
+### 3. Database Initialization
+1. Log in to your Supabase Dashboard and navigate to your project.
+2. Open the SQL Editor and click New Query.
 3. Copy the entire contents of `docs/database_schema.sql` and paste it into the editor.
-4. Click **Run**. All 14 tables, RLS policies, 69 flavor formulations, and 612 recipe ingredients will be initialized.
+4. Execute the query to initialize all 14 tables, RLS policies, 69 flavor formulations, and 612 recipe ingredients.
 
-### 4. Run Development Server
+### 4. Running Locally
+Start the development server:
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Navigate to `http://localhost:3000` in your browser.
 
 ---
 
-## 🔐 Default Access Credentials
+## Pre-Configured Access Profiles
 
-For testing and demonstration, use the pre-configured accounts:
+For demonstration and testing purposes, use the following pre-seeded credentials:
 
-| Role | Username | PIN Code | Primary Scope |
+| Role | Username | PIN Code | Primary System Scope |
 | :--- | :--- | :--- | :--- |
-| **Owner** | `own_aldo` | `999999` | Executive Dashboard, Financials, Audit Logs, Settings |
-| **Manager** | `mngr_budi` | `888888` | Inventory, Suppliers, Staff Roles, Menu Management |
-| **Kitchen** | `ktch_chef` | `123456` | Production Batches, Showcase Freezers, BOM & Waste |
-| **Cashier** | `cshr_siti` | `111111` | POS Terminal, Orders, Shifts, Member Loyalty |
+| Owner | `own_aldo` | `999999` | Executive Dashboard, Financials, Audit Logs, Security |
+| Manager | `mngr_budi` | `888888` | Inventory, Suppliers, Staff Roles, Menu Governance |
+| Kitchen | `ktch_chef` | `123456` | Production Batches, Showcase Freezers, BOM & Waste |
+| Cashier | `cshr_siti` | `111111` | POS Terminal, Orders, Shifts, Member Loyalty |
 
 ---
 
-## 📄 License
+## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for details.
