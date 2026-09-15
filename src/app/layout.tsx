@@ -21,6 +21,11 @@ const epilogue = localFont({
 export const metadata: Metadata = {
   title: "Bloc. Gelato - Enterprise Gelateria System",
   description: "Enterprise ERP and POS management system for Bloc. Gelato",
+  icons: {
+    icon: "/assets/logo%20peramban.svg",
+    shortcut: "/assets/logo%20peramban.svg",
+    apple: "/assets/logo%20peramban.svg",
+  },
 };
 
 export default function RootLayout({
