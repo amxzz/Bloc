@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bloc-navy: #2D3D6E;
+  --color-bloc-blue: #7F85D1;
+  --color-bloc-cream: #FCF1E1;
+  --color-bloc-red: #A4231E;
+  --color-bloc-white: #FFFFFF;
+  
+  --color-indicator-fresh: #2D7A4F;
+  --color-indicator-low: #D97706;
+  --color-indicator-critical: #E67E22;
+  --color-indicator-expired: #A4231E;
+  --color-indicator-empty: #94A3B8;
+
+  --font-epilogue: var(--font-epilogue), sans-serif;
+  --font-sans: var(--font-epilogue), system-ui, sans-serif;
+}
+
+:root {
+  --background: #FCF1E1;
+  --foreground: #2D3D6E;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-epilogue), system-ui, -apple-system, sans-serif;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(45, 61, 110, 0.05);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #7F85D1;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #2D3D6E;
+}
+
+/* Focus outline utility */
+*:focus-visible {
+  outline: 2px solid #A4231E;
+  outline-offset: 2px;
+}

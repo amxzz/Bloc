@@ -1,0 +1,1902 @@
+TUGAS UTAMA ANDA:
+
+Lakukan UX/UI research terlebih dahulu dengan menggunakan Dribbble sebagai salah satu sumber referensi utama, kemudian gunakan hasil research tersebut untuk melakukan redesign terhadap sistem Bloc. Gelato.
+
+JANGAN langsung mendesain berdasarkan contoh tampilan saya.
+
+
+Lakukan proses:
+
+1. RESEARCH
+
+2. COMPARE
+
+3. IDENTIFY PROBLEMS
+
+4. EXTRACT DESIGN PATTERNS
+
+5. DEFINE DESIGN DIRECTION
+
+6. REDESIGN
+
+7. VALIDATE UX
+
+8. ITERATE
+
+
+
+==================================================
+
+A. REFERENSI AWAL YANG HARUS DIANALISIS
+
+==================================================
+
+
+
+Gunakan Dribbble untuk mencari dan membandingkan referensi:
+
+
+
+- Restaurant POS UI
+
+- Gelato POS UI
+
+- Ice cream shop POS UI
+
+- Cafe POS UI
+
+- Food & beverage POS
+
+- Restaurant dashboard
+
+- Kitchen management dashboard
+
+- Kitchen display system
+
+- Inventory management dashboard
+
+- Food inventory UI
+
+- Order management dashboard
+
+- Checkout POS UI
+
+- Payment POS interface
+
+- Retail POS dashboard
+
+- SaaS dashboard
+
+- Modern hospitality management system
+
+
+
+Prioritaskan desain yang memiliki:
+
+
+
+- modern professional SaaS appearance
+
+- premium food & beverage aesthetic
+
+- fast POS workflow
+
+- clear information hierarchy
+
+- minimal cognitive load
+
+- high readability
+
+- large touch-friendly interaction
+
+- clean card hierarchy
+
+- intuitive navigation
+
+- operational dashboard
+
+- real-time order status
+
+- inventory monitoring
+
+- kitchen workflow
+
+- payment workflow
+
+
+
+Jangan hanya mencari desain yang "cantik".
+
+
+
+Cari desain yang memiliki UX yang benar-benar relevan dengan sistem operasional restoran/cafe/gelato.
+
+
+
+Untuk setiap referensi yang dianggap relevan:
+
+
+
+- berikan URL Dribbble
+
+- nama project/desain
+
+- desainer
+
+- bagian UI yang relevan
+
+- alasan mengapa relevan
+
+- design pattern yang dapat diadaptasi
+
+- elemen yang TIDAK boleh ditiru
+
+- bagaimana pattern tersebut dapat diterapkan ke Bloc. Gelato
+
+
+
+Jangan melakukan copy-paste desain.
+
+
+
+Gunakan Dribbble sebagai design reference dan inspiration source, bukan sebagai template untuk disalin.
+
+
+
+==================================================
+
+B. ANALISIS SCREENSHOT EXISTING
+
+==================================================
+
+
+
+Screenshot yang saya berikan adalah desain UI Bloc. Gelato saat ini.
+
+
+
+Anggap screenshot tersebut sebagai:
+
+
+
+"CURRENT VERSION / BASELINE"
+
+
+
+Bukan sebagai final design.
+
+
+
+Analisis seluruh desain existing secara kritis.
+
+
+
+Identifikasi:
+
+
+
+1. visual hierarchy
+
+2. information architecture
+
+3. navigation
+
+4. spacing
+
+5. typography
+
+6. color usage
+
+7. component consistency
+
+8. card design
+
+9. button hierarchy
+
+10. form usability
+
+11. table/list usability
+
+12. order workflow
+
+13. checkout workflow
+
+14. kitchen workflow
+
+15. inventory workflow
+
+16. notification system
+
+17. status indicators
+
+18. modal/dialog behavior
+
+19. responsive behavior
+
+20. accessibility
+
+21. cognitive load
+
+22. error prevention
+
+23. interaction efficiency
+
+
+
+Jelaskan secara spesifik:
+
+
+
+- apa yang sudah bagus
+
+- apa yang kurang
+
+- apa yang harus dipertahankan
+
+- apa yang harus diperbaiki
+
+- apa yang harus dihapus
+
+- apa yang harus diganti
+
+- apa yang harus dibuat ulang dari nol
+
+
+
+Jangan mempertahankan komponen hanya karena sudah ada di screenshot.
+
+
+
+Jika sebuah komponen mengganggu UX, redesign sepenuhnya.
+
+
+
+==================================================
+
+C. MASALAH YANG HARUS DIPERHATIKAN
+
+==================================================
+
+
+
+Perhatikan beberapa indikasi masalah dari desain existing:
+
+
+
+- terlalu banyak card dengan visual weight yang hampir sama
+
+- hierarchy antar informasi belum kuat
+
+- beberapa teks terlalu kecil
+
+- terlalu banyak informasi dalam area kecil
+
+- sidebar terasa terlalu dominan
+
+- warna lavender/purple terlalu sering digunakan
+
+- status belum memiliki visual language yang kuat
+
+- beberapa button terlalu kecil
+
+- order summary belum cukup dominant
+
+- checkout flow masih terasa seperti modal tambahan
+
+- product selection belum cukup visual
+
+- kitchen information belum cukup operational
+
+- dashboard belum benar-benar menunjukkan "what needs attention"
+
+- whitespace belum konsisten
+
+- beberapa komponen terlihat seperti placeholder
+
+- card structure terlalu repetitif
+
+- visual hierarchy antara primary/secondary action belum jelas
+
+- interaction states belum terlihat matang
+
+- modal dan CTA belum terasa sebagai bagian dari satu design system
+
+- informasi penting belum selalu berada di lokasi yang mudah dipindai
+
+- desain lebih terasa seperti dashboard template daripada aplikasi POS yang dibuat khusus untuk gelato shop
+
+
+
+Validasi apakah observasi tersebut benar.
+
+
+
+Tambahkan masalah lain yang ditemukan melalui UX analysis.
+
+
+
+==================================================
+
+D. BRAND DIRECTION
+
+==================================================
+
+
+
+Brand:
+
+
+
+Bloc. Gelato
+
+
+
+Karakter brand:
+
+
+
+- premium
+
+- modern
+
+- playful tetapi tidak childish
+
+- artisan
+
+- contemporary
+
+- clean
+
+- sophisticated
+
+- warm
+
+- approachable
+
+- visually memorable
+
+
+
+Jangan membuat UI seperti:
+
+
+
+- generic restaurant POS
+
+- generic admin dashboard
+
+- overly corporate SaaS
+
+- overly playful children's application
+
+- overly colorful food delivery app
+
+
+
+UI harus terasa seperti:
+
+
+
+"premium gelato retail experience + modern operational software."
+
+
+
+Gunakan screenshot existing hanya sebagai referensi identitas visual, bukan batasan desain.
+
+
+
+Pertahankan karakter:
+
+
+
+- Bloc. Gelato branding
+
+- premium gelato atmosphere
+
+- warm cream background
+
+- terracotta/red accent
+
+- slate/blue accent
+
+- subtle lavender jika memang masih relevan
+
+
+
+Namun evaluasi ulang seluruh color system.
+
+
+
+Jangan memaksakan warna existing jika ternyata mengurangi usability.
+
+
+
+==================================================
+
+E. DESIGN SYSTEM BARU
+
+==================================================
+
+
+
+Buat DESIGN SYSTEM khusus untuk Bloc. Gelato.
+
+
+
+Tentukan:
+
+
+
+COLOR SYSTEM
+
+- Primary
+
+- Secondary
+
+- Accent
+
+- Background
+
+- Surface
+
+- Border
+
+- Text Primary
+
+- Text Secondary
+
+- Success
+
+- Warning
+
+- Error
+
+- Info
+
+- Disabled
+
+
+
+TYPOGRAPHY
+
+- Display
+
+- H1
+
+- H2
+
+- H3
+
+- Body
+
+- Caption
+
+- Label
+
+- Price
+
+- Numeric data
+
+
+
+SPACING SYSTEM
+
+
+
+Gunakan spacing scale yang konsisten.
+
+
+
+CONTAINER
+
+
+
+Tentukan:
+
+
+
+- sidebar width
+
+- content max width
+
+- card padding
+
+- section spacing
+
+- grid gap
+
+- modal spacing
+
+
+
+RADIUS
+
+
+
+Tentukan:
+
+
+
+- card radius
+
+- button radius
+
+- input radius
+
+- modal radius
+
+- badge radius
+
+
+
+SHADOW
+
+
+
+Gunakan shadow secara minimal dan konsisten.
+
+
+
+COMPONENTS
+
+
+
+Buat reusable component system:
+
+
+
+- Button
+
+- Icon Button
+
+- Input
+
+- Search
+
+- Dropdown
+
+- Tabs
+
+- Segmented Control
+
+- Badge
+
+- Status Badge
+
+- Product Card
+
+- Order Card
+
+- Summary Card
+
+- KPI Card
+
+- Table
+
+- Data Row
+
+- Modal
+
+- Drawer
+
+- Toast
+
+- Tooltip
+
+- Empty State
+
+- Loading State
+
+- Error State
+
+- Confirmation Dialog
+
+- Quantity Selector
+
+- Price Display
+
+- Payment Method Selector
+
+
+
+==================================================
+
+F. INFORMATION ARCHITECTURE
+
+==================================================
+
+
+
+Evaluasi ulang struktur navigasi.
+
+
+
+Sistem memiliki beberapa role:
+
+
+
+1. CASHIER
+
+2. KITCHEN
+
+3. ADMIN / MANAGER
+
+
+
+Jangan membuat semua role melihat struktur navigasi yang sama.
+
+
+
+Navigation harus role-based.
+
+
+
+--------------------------------
+
+CASHIER
+
+--------------------------------
+
+
+
+Prioritaskan:
+
+
+
+- New Order
+
+- Orders
+
+- Transactions
+
+- Products / Catalog
+
+- Customers jika diperlukan
+
+- Shift
+
+- Reports jika memiliki permission
+
+
+
+--------------------------------
+
+KITCHEN
+
+--------------------------------
+
+
+
+Prioritaskan:
+
+
+
+- Overview
+
+- Active Orders
+
+- Production
+
+- Freezer
+
+- Waste Log
+
+- Inventory Alerts
+
+
+
+--------------------------------
+
+ADMIN / MANAGER
+
+--------------------------------
+
+
+
+Prioritaskan:
+
+
+
+- Dashboard
+
+- Orders
+
+- Products
+
+- Inventory
+
+- Production
+
+- Waste
+
+- Sales
+
+- Reports
+
+- Staff
+
+- Settings
+
+
+
+Gunakan progressive disclosure.
+
+
+
+Jangan menampilkan semua fungsi sekaligus jika tidak diperlukan.
+
+
+
+==================================================
+
+G. CASHIER / POS REDESIGN
+
+==================================================
+
+
+
+Redesign POS agar benar-benar optimized untuk fast ordering.
+
+
+
+Gunakan struktur yang dapat berupa:
+
+
+
+LEFT:
+
+Navigation / categories
+
+
+
+CENTER:
+
+Product catalog
+
+
+
+RIGHT:
+
+Current order / cart
+
+
+
+Current order harus selalu terlihat ketika desktop POS digunakan.
+
+
+
+Product area harus memiliki:
+
+
+
+- category
+
+- product image
+
+- product name
+
+- flavor
+
+- price
+
+- availability
+
+- quantity
+
+- modifier indicator
+
+
+
+Untuk gelato, pertimbangkan:
+
+
+
+PRODUCT TYPE
+
+
+
+- Gelato
+
+- Cono
+
+- Cup
+
+- Vaschetta
+
+- Packaging
+
+- Topping
+
+- Sauce
+
+- Add-ons
+
+
+
+Gunakan visual hierarchy yang jelas.
+
+
+
+Jangan membuat user membuka terlalu banyak modal untuk menyelesaikan satu order.
+
+
+
+==================================================
+
+H. GELATO-SPECIFIC ORDER FLOW
+
+==================================================
+
+
+
+Sistem bukan restaurant biasa.
+
+
+
+Buat UX khusus gelato.
+
+
+
+Contoh:
+
+
+
+STEP 1
+
+Choose Product
+
+
+
+STEP 2
+
+Choose Size
+
+
+
+STEP 3
+
+Choose Flavor
+
+
+
+STEP 4
+
+Choose Packaging
+
+
+
+STEP 5
+
+Choose Topping
+
+
+
+STEP 6
+
+Choose Sauce
+
+
+
+STEP 7
+
+Review Order
+
+
+
+STEP 8
+
+Payment
+
+
+
+Jika memungkinkan, gunakan progressive interaction daripada membuka banyak modal bertumpuk.
+
+
+
+Contoh:
+
+
+
+Choose Packaging
+
+
+
+- Piccolo
+
+- Medio
+
+- Grande
+
+
+
+Cono
+
+
+
+- Bambino
+
+- Classico
+
+- Maestro
+
+
+
+Vaschetta
+
+
+
+- ukuran sesuai produk
+
+
+
+Setiap option harus memiliki:
+
+
+
+- image
+
+- name
+
+- price
+
+- availability
+
+- selected state
+
+
+
+==================================================
+
+I. ORDER SUMMARY
+
+==================================================
+
+
+
+Order summary harus menjadi salah satu visual anchor utama.
+
+
+
+Tampilkan:
+
+
+
+- order number
+
+- customer
+
+- selected products
+
+- quantity
+
+- modifiers
+
+- subtotal
+
+- discount
+
+- tax/service charge jika ada
+
+- total
+
+- payment status
+
+- notes
+
+- estimated preparation time
+
+
+
+Primary action:
+
+
+
+"Proceed to Payment"
+
+
+
+Secondary:
+
+
+
+"Save / Hold Order"
+
+
+
+Danger:
+
+
+
+"Cancel Order"
+
+
+
+Pastikan hierarchy ketiga action tersebut sangat jelas.
+
+
+
+==================================================
+
+J. CHECKOUT / PAYMENT
+
+==================================================
+
+
+
+Redesign checkout agar terasa sebagai bagian dari POS workflow, bukan modal yang terpisah.
+
+
+
+Payment screen harus memiliki:
+
+
+
+TOTAL
+
+
+
+Payment Method:
+
+
+
+- Cash
+
+- QRIS
+
+- Debit/Credit
+
+- E-wallet jika tersedia
+
+
+
+Untuk cash:
+
+
+
+Amount Received
+
+Change
+
+
+
+Untuk QRIS:
+
+
+
+QR presentation
+
+Payment status
+
+Confirmation
+
+
+
+Untuk card:
+
+
+
+Payment status
+
+Confirmation
+
+
+
+Tambahkan:
+
+
+
+- transaction number
+
+- order number
+
+- payment status
+
+- receipt option
+
+
+
+Gunakan confirmation state yang jelas.
+
+
+
+==================================================
+
+K. KITCHEN OVERVIEW
+
+==================================================
+
+
+
+Kitchen dashboard harus berbeda secara UX dari cashier.
+
+
+
+Kitchen membutuhkan:
+
+
+
+"WHAT NEEDS ATTENTION NOW?"
+
+
+
+Prioritaskan:
+
+
+
+- Active Orders
+
+- Urgent Orders
+
+- Expired / Near Expiry
+
+- Low Stock
+
+- Production Tasks
+
+- Freezer Alerts
+
+- Waste Alerts
+
+
+
+Gunakan status:
+
+
+
+NEW
+
+PREPARING
+
+READY
+
+COMPLETED
+
+URGENT
+
+DELAYED
+
+
+
+Jangan menggunakan terlalu banyak warna.
+
+
+
+Gunakan semantic color system.
+
+
+
+==================================================
+
+L. FREEZER MANAGEMENT
+
+==================================================
+
+
+
+Redesign freezer screen agar terasa seperti operational monitoring system.
+
+
+
+Tampilkan:
+
+
+
+Freezer status
+
+Temperature
+
+Capacity
+
+Inventory
+
+Expiry
+
+Product
+
+Batch
+
+Quantity
+
+Status
+
+
+
+Contoh:
+
+
+
+FREEZER A01
+
+
+
+Temperature
+
+-18°C
+
+
+
+Capacity
+
+72%
+
+
+
+Items
+
+12
+
+
+
+Alerts
+
+2
+
+
+
+Gunakan visual indicators yang mudah dipindai.
+
+
+
+Jangan membuat freezer seperti kumpulan card biasa.
+
+
+
+Pertimbangkan:
+
+
+
+- grid
+
+- rack visualization
+
+- table
+
+- timeline
+
+- status board
+
+
+
+Pilih layout yang paling efektif setelah research.
+
+
+
+==================================================
+
+M. WASTE LOG
+
+==================================================
+
+
+
+Waste management harus berorientasi data dan action.
+
+
+
+Tampilkan:
+
+
+
+- product
+
+- quantity
+
+- reason
+
+- estimated cost
+
+- date
+
+- staff
+
+- batch
+
+- action
+
+
+
+Tambahkan summary:
+
+
+
+Today's Waste
+
+This Week
+
+This Month
+
+Highest Waste Product
+
+Waste Cost
+
+
+
+Gunakan chart hanya jika benar-benar membantu keputusan.
+
+
+
+==================================================
+
+N. DASHBOARD
+
+==================================================
+
+
+
+Dashboard jangan menjadi kumpulan KPI card.
+
+
+
+Gunakan hierarchy:
+
+
+
+LEVEL 1
+
+"What needs attention?"
+
+
+
+LEVEL 2
+
+"What is happening?"
+
+
+
+LEVEL 3
+
+"Why is it happening?"
+
+
+
+LEVEL 4
+
+"What can I do?"
+
+
+
+Contoh:
+
+
+
+TODAY
+
+
+
+Revenue
+
+Orders
+
+Average Order Value
+
+Best Seller
+
+
+
+Operational Alerts
+
+
+
+Low Stock
+
+Freezer Issue
+
+Pending Production
+
+Waste Alert
+
+
+
+Recent Orders
+
+
+
+Sales Trend
+
+
+
+Inventory Health
+
+
+
+Gunakan Bento Grid hanya jika memang meningkatkan information hierarchy.
+
+
+
+Jangan menggunakan Bento Grid hanya karena sedang populer.
+
+
+
+==================================================
+
+O. UX PRINCIPLES
+
+==================================================
+
+
+
+Gunakan prinsip:
+
+
+
+1. Recognition over recall
+
+2. Minimize cognitive load
+
+3. Clear visual hierarchy
+
+4. Progressive disclosure
+
+5. Consistent interaction
+
+6. Error prevention
+
+7. Immediate feedback
+
+8. Efficient scanning
+
+9. Large touch targets
+
+10. Clear status communication
+
+11. Predictable navigation
+
+12. Strong primary actions
+
+
+
+Untuk cashier:
+
+
+
+OPTIMIZE FOR SPEED.
+
+
+
+Untuk kitchen:
+
+
+
+OPTIMIZE FOR VISIBILITY.
+
+
+
+Untuk manager:
+
+
+
+OPTIMIZE FOR DECISION MAKING.
+
+
+
+==================================================
+
+P. RESPONSIVE DESIGN
+
+==================================================
+
+
+
+Desain utama harus optimal untuk desktop POS.
+
+
+
+Tetapi tetap definisikan behavior untuk:
+
+
+
+- Desktop
+
+- Laptop
+
+- Tablet
+
+
+
+Jangan hanya mengecilkan desktop UI.
+
+
+
+Tentukan bagaimana:
+
+
+
+- sidebar berubah
+
+- product grid berubah
+
+- order summary berubah
+
+- modal berubah menjadi drawer
+
+- table berubah menjadi card/list
+
+- navigation berubah
+
+
+
+==================================================
+
+Q. MICROINTERACTION
+
+==================================================
+
+
+
+Tambahkan microinteraction yang relevan:
+
+
+
+- add product
+
+- quantity change
+
+- selected state
+
+- payment success
+
+- order completed
+
+- low stock
+
+- expired product
+
+- freezer warning
+
+- order ready
+
+- notification
+
+- undo action
+
+
+
+Tetapi jangan berlebihan.
+
+
+
+Animasi harus:
+
+
+
+- fast
+
+- subtle
+
+- purposeful
+
+
+
+==================================================
+
+R. ACCESSIBILITY
+
+==================================================
+
+
+
+Pastikan:
+
+
+
+- text readable
+
+- contrast sufficient
+
+- status tidak hanya dibedakan dengan warna
+
+- button memiliki clear label
+
+- touch target cukup besar
+
+- focus state tersedia
+
+- error state jelas
+
+- typography tidak terlalu kecil
+
+
+
+==================================================
+
+S. HASIL RESEARCH
+
+==================================================
+
+
+
+Sebelum membuat desain final, buat tabel:
+
+
+
+REFERENCE
+
+| Dribbble | Relevance | Pattern | Why useful | Adaptation |
+
+
+
+Kemudian buat:
+
+
+
+"DESIGN PATTERN LIBRARY"
+
+
+
+Contoh:
+
+
+
+Pattern:
+
+Persistent Cart
+
+
+
+Source:
+
+Restaurant POS reference
+
+
+
+Why:
+
+Cashier selalu melihat current order
+
+
+
+Adaptation:
+
+Bloc. Gelato menggunakan fixed order panel di kanan.
+
+
+
+Lakukan untuk minimal:
+
+
+
+- 8–12 design patterns.
+
+
+
+==================================================
+
+T. REDESIGN PLAN
+
+==================================================
+
+
+
+Setelah research, buat prioritas:
+
+
+
+P0 — MUST FIX
+
+P1 — HIGH IMPACT
+
+P2 — NICE TO HAVE
+
+
+
+Kemudian tentukan screen yang harus:
+
+
+
+KEEP
+
+REFINE
+
+REDESIGN
+
+REBUILD
+
+
+
+==================================================
+
+U. FINAL DESIGN DIRECTION
+
+==================================================
+
+
+
+Buat satu unified visual direction untuk Bloc. Gelato.
+
+
+
+Design harus terasa:
+
+
+
+PREMIUM
+
+MODERN
+
+FAST
+
+ARTISAN
+
+WARM
+
+OPERATIONAL
+
+CLEAN
+
+
+
+Tetapi tetap functional.
+
+
+
+Hindari:
+
+
+
+- generic dashboard
+
+- excessive cards
+
+- excessive rounded corners
+
+- excessive gradients
+
+- excessive purple
+
+- excessive shadows
+
+- tiny typography
+
+- excessive icons
+
+- unnecessary decoration
+
+- overly dense UI
+
+- excessive modal usage
+
+
+
+==================================================
+
+V. FINAL OUTPUT
+
+==================================================
+
+
+
+Berikan hasil dalam urutan berikut:
+
+
+
+1. Executive UX Diagnosis
+
+2. Dribbble Research
+
+3. 8–12 Reference Designs
+
+4. Design Pattern Extraction
+
+5. Current UI Problems
+
+6. Information Architecture
+
+7. New Navigation Structure
+
+8. Design System
+
+9. Color System
+
+10. Typography
+
+11. Component System
+
+12. Cashier UX
+
+13. Order Flow
+
+14. Checkout UX
+
+15. Kitchen UX
+
+16. Freezer UX
+
+17. Waste Management UX
+
+18. Dashboard UX
+
+19. Role-based UX
+
+20. Responsive Strategy
+
+21. Microinteraction Strategy
+
+22. Accessibility
+
+23. Screen-by-Screen Redesign Specification
+
+24. Before vs After comparison
+
+25. Final UI/UX Design Direction
+
+
+
+Untuk setiap screen, jelaskan:
+
+
+
+- purpose
+
+- target user
+
+- user goal
+
+- information hierarchy
+
+- layout
+
+- navigation
+
+- components
+
+- interaction
+
+- states
+
+- CTA
+
+- empty state
+
+- loading state
+
+- error state
+
+- responsive behavior
+
+
+
+==================================================
+
+IMPORTANT
+
+==================================================
+
+
+
+Jangan membuat desain yang sekadar "lebih cantik".
+
+
+
+Tujuan redesign adalah membuat Bloc. Gelato menjadi:
+
+
+
+"A fast, premium, purpose-built gelato POS and operational management system."
+
+
+
+Gunakan Dribbble untuk menemukan pola terbaik.
+
+
+
+Adaptasi pattern tersebut.
+
+
+
+Jangan copy desain secara langsung.
+
+
+
+Pertahankan identitas Bloc. Gelato, tetapi berani melakukan perubahan besar terhadap layout, hierarchy, component structure, navigation, interaction, dan information architecture jika hal tersebut meningkatkan UX.
+
+
+
+Prioritaskan FUNCTIONALITY + USABILITY + VISUAL QUALITY secara bersamaan.
+
+
+
+Jika terdapat dua alternatif desain, pilih yang paling efisien untuk user dalam kondisi operasional nyata.
+
+
+
+Selalu jelaskan alasan UX di balik setiap keputusan desain.

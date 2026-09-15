@@ -1,0 +1,238 @@
+================================================================================
+BLOC. GELATO — 6/12: DAIRY-FREE / SORBETTO SERIES FORMULATION RECIPES
+Standard Production Batch: 2.500 g (Base Ringan / Sorbetto)
+Base Archetype: Fruit Sorbetto Base / Dark Cocoa Sorbetto Base
+================================================================================
+
+--------------------------------------------------------------------------------
+SOP PARAMETER PRODUKSI SORBETTO (STANDARD OPERATING PROCEDURE)
+--------------------------------------------------------------------------------
+1. BALANCING     : Campur bahan kering (sukrosa, dextrose, glucose, stabilizer,
+                   soluble fiber). Panaskan air untuk melarutkan sirup gula.
+2. PASTEURIZING  : Pasteurisasi larutan sirup gula dasar.
+3. RAPID COOLING : Penurunan suhu cepat larutan sirup ke 4°C dalam 10–15 menit.
+4. COLD BLEND    : Campurkan fruit puree dingin / juice ke dalam sirup yang telah
+                   dingin untuk menjaga kesegaran aroma, warna alami, dan acidity.
+5. AGING/CHILL   : 4°C selama minimal 2–4 jam untuk hidrasi stabilizer optimal.
+6. CHURNING      : Suhu outlet -5°C s/d -9°C (durasi ±15–20 menit).
+7. BLAST FREEZER : Suhu -30°C s/d -40°C (durasi ±30–45 menit).
+8. TEMPERING     : Suhu inti -11°C s/d -14°C (durasi ±15–30 menit).
+9. SHOWCASE      : Suhu display -14°C s/d -16°C (monitoring real-time).
+
+================================================================================
+FORMULA 9 VARIAN DAIRY-FREE / SORBETTO SERIES
+================================================================================
+
+--------------------------------------------------------------------------------
+01. WILD MIXED BERRIES SORBET ⭐
+--------------------------------------------------------------------------------
+Master Base : Fruit Sorbetto Base
+Allergen    : None (100% Dairy-Free / Vegan)
+Instruksi   : Sirup gula dipasteurisasi & didinginkan; berry puree dimasukkan saat
+              dingin (cold blend) agar aroma dan warna merah pekat tetap segar.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 2.500 g
+---------------------------------+-------+---------------+--------------
+Mixed Berry Puree                | 55.0% |       550,0 g |     1.375,0 g
+Water                            | 22.0% |       220,0 g |       550,0 g
+Sukrosa                          | 12.0% |       120,0 g |       300,0 g
+Dextrose                         |  5.0% |        50,0 g |       125,0 g
+Glucose Powder DE40              |  3.5% |        35,0 g |        87,5 g
+Invert Sugar                     |  1.5% |        15,0 g |        37,5 g
+Soluble Fiber                    |  0.5% |         5,0 g |        12,5 g
+Sorbet Stabilizer                |  0.4% |         4,0 g |        10,0 g
+Lemon Juice / Acid Component     |  0.1% |         1,0 g |         2,5 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     2.500,0 g
+
+
+--------------------------------------------------------------------------------
+02. ALPHONSO MANGO SORBETTO
+--------------------------------------------------------------------------------
+Master Base : Fruit Sorbetto Base
+Allergen    : None (100% Dairy-Free / Vegan)
+Instruksi   : Alphonso mango puree dengan brix tinggi dihomogenisasi dingin
+              bersama sirup gula dan acid balancer untuk tekstur dense & scoopable.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 2.500 g
+---------------------------------+-------+---------------+--------------
+Alphonso Mango Puree             | 60.0% |       600,0 g |     1.500,0 g
+Water                            | 17.0% |       170,0 g |       425,0 g
+Sukrosa                          | 11.5% |       115,0 g |       287,5 g
+Dextrose                         |  5.0% |        50,0 g |       125,0 g
+Glucose Powder DE40              |  3.5% |        35,0 g |        87,5 g
+Invert Sugar                     |  2.0% |        20,0 g |        50,0 g
+Soluble Fiber                    |  0.5% |         5,0 g |        12,5 g
+Sorbet Stabilizer                |  0.4% |         4,0 g |        10,0 g
+Lemon Juice / Acid Component     |  0.1% |         1,0 g |         2,5 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     2.500,0 g
+
+
+--------------------------------------------------------------------------------
+03. MIDNIGHT DARK COCOA SORBET
+--------------------------------------------------------------------------------
+Master Base : Dark Cocoa Sorbetto Base
+Allergen    : Dairy-Free. Soy hanya jika cocoa powder mengandung Soy Lecithin.
+Instruksi   : Cocoa powder dilarutkan & dipasteurisasi bersama air dan gula;
+              serat larut mengimbangi ketiadaan lemak susu untuk mouthfeel pekat.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 2.500 g
+---------------------------------+-------+---------------+--------------
+Water                            | 57.0% |       570,0 g |     1.425,0 g
+Cocoa Powder (Pure Dark)         |  9.0% |        90,0 g |       225,0 g
+Sukrosa                          | 17.5% |       175,0 g |       437,5 g
+Dextrose                         |  5.5% |        55,0 g |       137,5 g
+Glucose Powder DE40              |  4.0% |        40,0 g |       100,0 g
+Invert Sugar                     |  3.5% |        35,0 g |        87,5 g
+Soluble Fiber / Cocoa Solids     |  3.0% |        30,0 g |        75,0 g
+Sorbet Stabilizer                |  0.5% |         5,0 g |        12,5 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     2.500,0 g
+
+
+--------------------------------------------------------------------------------
+04. DRAGONFRUIT LIME PITAYA
+--------------------------------------------------------------------------------
+Master Base : Fruit Sorbetto Base
+Allergen    : None (100% Dairy-Free / Vegan)
+Instruksi   : Puree buah naga merah dicampurkan dingin bersama air perasan jeruk
+              nipis (lime juice) untuk memberi acidity dan stabilitas warna cerah.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 2.500 g
+---------------------------------+-------+---------------+--------------
+Dragonfruit / Pitaya Puree       | 55.0% |       550,0 g |     1.375,0 g
+Water                            | 22.0% |       220,0 g |       550,0 g
+Sukrosa                          | 12.0% |       120,0 g |       300,0 g
+Dextrose                         |  5.0% |        50,0 g |       125,0 g
+Glucose Powder DE40              |  3.5% |        35,0 g |        87,5 g
+Invert Sugar                     |  1.0% |        10,0 g |        25,0 g
+Soluble Fiber                    |  0.5% |         5,0 g |        12,5 g
+Sorbet Stabilizer                |  0.4% |         4,0 g |        10,0 g
+Lime Juice                       |  0.6% |         6,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     2.500,0 g
+
+
+--------------------------------------------------------------------------------
+05. SICILIAN LIMONE SORBETTO
+--------------------------------------------------------------------------------
+Master Base : Fruit Sorbetto Base
+Allergen    : None (100% Dairy-Free / Vegan)
+Instruksi   : Sirup gula dimasak & didinginkan; perasan lemon segar & zest/minyak
+              aroma lemon dimasukkan terakhir sebelum proses churning.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 2.500 g
+---------------------------------+-------+---------------+--------------
+Water                            | 68.0% |       680,0 g |     1.700,0 g
+Lemon Juice                      | 15.0% |       150,0 g |       375,0 g
+Sukrosa                          | 11.0% |       110,0 g |       275,0 g
+Dextrose                         |  3.0% |        30,0 g |        75,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        50,0 g
+Invert Sugar                     |  0.5% |         5,0 g |        12,5 g
+Sorbet Stabilizer                |  0.4% |         4,0 g |        10,0 g
+Lemon Zest / Aroma Component     |  0.1% |         1,0 g |         2,5 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     2.500,0 g
+
+
+--------------------------------------------------------------------------------
+06. PASSIONFRUIT MINT FREEZE
+--------------------------------------------------------------------------------
+Master Base : Fruit Sorbetto Base
+Allergen    : None (100% Dairy-Free / Vegan)
+Instruksi   : Passionfruit puree disatukan dingin dengan ekstrak mint aromatik;
+              menghasilkan profil asam kuat dengan sensasi dingin mint alami.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 2.500 g
+---------------------------------+-------+---------------+--------------
+Passionfruit Puree               | 35.0% |       350,0 g |       875,0 g
+Water                            | 41.0% |       410,0 g |     1.025,0 g
+Sukrosa                          | 14.0% |       140,0 g |       350,0 g
+Dextrose                         |  5.0% |        50,0 g |       125,0 g
+Glucose Powder DE40              |  3.0% |        30,0 g |        75,0 g
+Invert Sugar                     |  1.0% |        10,0 g |        25,0 g
+Sorbet Stabilizer                |  0.4% |         4,0 g |        10,0 g
+Mint Component                   |  0.5% |         5,0 g |        12,5 g
+Lemon / Lime Juice               |  0.1% |         1,0 g |         2,5 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     2.500,0 g
+
+
+--------------------------------------------------------------------------------
+07. LYCHEE RASPBERRY ROSE
+--------------------------------------------------------------------------------
+Master Base : Fruit Sorbetto Base
+Allergen    : None (100% Dairy-Free / Vegan)
+Instruksi   : Puree leci manis, raspberry tart, dan rose water/component disatukan
+              secara dingin untuk menjaga keharuman floral yang lembut.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 2.500 g
+---------------------------------+-------+---------------+--------------
+Lychee Puree                     | 35.0% |       350,0 g |       875,0 g
+Raspberry Puree                  | 20.0% |       200,0 g |       500,0 g
+Water                            | 25.0% |       250,0 g |       625,0 g
+Sukrosa                          | 13.0% |       130,0 g |       325,0 g
+Dextrose                         |  4.0% |        40,0 g |       100,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        50,0 g
+Invert Sugar                     |  0.5% |         5,0 g |        12,5 g
+Sorbet Stabilizer                |  0.4% |         4,0 g |        10,0 g
+Rose Component                   |  0.1% |         1,0 g |         2,5 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     2.500,0 g
+
+
+--------------------------------------------------------------------------------
+08. PINEAPPLE BASIL SORBET
+--------------------------------------------------------------------------------
+Master Base : Fruit Sorbetto Base
+Allergen    : None (100% Dairy-Free / Vegan)
+Instruksi   : Nanas manis tropis di-blend dingin bersama infus basil aromatik
+              dan sedikit citrus balancer untuk profil herba-buah menyegarkan.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 2.500 g
+---------------------------------+-------+---------------+--------------
+Pineapple Puree / Juice          | 52.0% |       520,0 g |     1.300,0 g
+Water                            | 25.0% |       250,0 g |       625,0 g
+Sukrosa                          | 13.0% |       130,0 g |       325,0 g
+Dextrose                         |  5.0% |        50,0 g |       125,0 g
+Glucose Powder DE40              |  3.0% |        30,0 g |        75,0 g
+Invert Sugar                     |  1.0% |        10,0 g |        25,0 g
+Sorbet Stabilizer                |  0.4% |         4,0 g |        10,0 g
+Basil Component                  |  0.5% |         5,0 g |        12,5 g
+Lemon / Lime Component           |  0.1% |         1,0 g |         2,5 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     2.500,0 g
+
+
+--------------------------------------------------------------------------------
+09. WATERMELON MINT BREEZE
+--------------------------------------------------------------------------------
+Master Base : Fruit Sorbetto Base
+Allergen    : None (100% Dairy-Free / Vegan)
+Instruksi   : Semangka segar disaring & dicampur dingin bersama ekstrak mint
+              dan perasan jeruk nipis ke dalam sirup dasar yang telah dingin.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 2.500 g
+---------------------------------+-------+---------------+--------------
+Watermelon Puree / Juice         | 60.0% |       600,0 g |     1.500,0 g
+Water                            | 19.0% |       190,0 g |       475,0 g
+Sukrosa                          | 12.5% |       125,0 g |       312,5 g
+Dextrose                         |  4.5% |        45,0 g |       112,5 g
+Glucose Powder DE40              |  2.5% |        25,0 g |        62,5 g
+Invert Sugar                     |  0.5% |         5,0 g |        12,5 g
+Sorbet Stabilizer                |  0.4% |         4,0 g |        10,0 g
+Mint Component                   |  0.5% |         5,0 g |        12,5 g
+Lime Component                   |  0.1% |         1,0 g |         2,5 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     2.500,0 g
+================================================================================

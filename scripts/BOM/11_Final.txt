@@ -1,0 +1,300 @@
+================================================================================
+BLOC. GELATO — 11/12: FINALISASI MASTER BASE & BALANCING FORMULA
+Standard Production Batch:
+- Gelato / Dense Bases (MB-01 s/d MB-07, MB-09) : 3.000 g
+- Sorbetto / Light Base (MB-08)                 : 2.500 g
+================================================================================
+
+--------------------------------------------------------------------------------
+1. ARSITEKTUR 9 MASTER BASE BLOC. GELATO
+--------------------------------------------------------------------------------
+
+Kode  | Master Base               | Kategori Penggunaan
+------+---------------------------+---------------------------------------------
+MB-01 | Fior di Latte Base        | Milk, Fior di Latte, Vanilla, Strawberry Milk
+MB-02 | Creamy Dairy Base         | Cheese, Yogurt, Mascarpone, Caramel, Panna Cotta
+MB-03 | Chocolate Base            | Dark Choco, Milk Choco, Brownie, Mint Choco
+MB-04 | Nut Praline Base          | Pistachio, Hazelnut, Peanut, Almond, Pecan
+MB-05 | Fruit Cream Base          | Berry Cream, Peach Yogurt, Banana, Cherry
+MB-06 | Dessert Base              | Tiramisu, Biscoff, Cheesecake, Red Velvet
+MB-07 | Tea & Coffee Base         | Matcha, Hojicha, Earl Grey, Coffee, Espresso
+MB-08 | Sorbet Base               | Seluruh Varian Dairy-Free / Sorbetto Buah & Kakao
+MB-09 | Seasonal Special Base     | Varian Musiman (Gingerbread, Kastengel, Nastar)
+
+--------------------------------------------------------------------------------
+2. MASTER BASE FORMULATIONS (1.000 g & BATCH PRODUKSI)
+--------------------------------------------------------------------------------
+
+================================================================================
+MB-01 — FIOR DI LATTE BASE
+Batch Target: 3.000 g (Dense Base)
+Allergen    : Milk
+Aplikasi    : Varian susu murni, vanilla, stracciatella, cereal milk.
+================================================================================
+KOMPOSISI:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 65.0% |       650,0 g |     1.950,0 g
+Dairy Cream 35%                  |  8.0% |        80,0 g |       240,0 g
+Skim Milk Powder (SMP)           |  5.0% |        50,0 g |       150,0 g
+Sukrosa                          | 12.0% |       120,0 g |       360,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  1.5% |        15,0 g |        45,0 g
+Invert Sugar                     |  1.0% |        10,0 g |        30,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Vanilla                          |  0.2% |         2,0 g |         6,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+Water / Balancing Adjustment     |  3.1% |        31,0 g |        93,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+================================================================================
+MB-02 — CREAMY DAIRY BASE
+Batch Target: 3.000 g (Dense Base)
+Allergen    : Milk
+Aplikasi    : Sweet cheese, cream cheese, mascarpone, panna cotta, yogurt.
+================================================================================
+KOMPOSISI:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 59.0% |       590,0 g |     1.770,0 g
+Dairy Cream 35%                  | 10.5% |       105,0 g |       315,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Dairy Cheese / Yogurt Allowance  |  7.5% |        75,0 g |       225,0 g
+Sukrosa                          | 12.0% |       120,0 g |       360,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+Vanilla                          |  0.3% |         3,0 g |         9,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+================================================================================
+MB-03 — CHOCOLATE BASE
+Batch Target: 3.000 g (Dense Base)
+Allergen    : Milk (Soy jika cocoa / chocolate mengandung soy lecithin)
+Aplikasi    : Dark chocolate, milk chocolate, brownie, choco mint.
+================================================================================
+KOMPOSISI:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 60.0% |       600,0 g |     1.800,0 g
+Dairy Cream 35%                  |  8.0% |        80,0 g |       240,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Cocoa Powder (10–12% fat)        |  7.5% |        75,0 g |       225,0 g
+Sukrosa                          | 13.5% |       135,0 g |       405,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.5% |        25,0 g |        75,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+================================================================================
+MB-04 — NUT PRALINE BASE
+Batch Target: 3.000 g (Dense Base)
+Allergen    : Milk, Tree Nuts / Peanuts / Sesame (sesuai spesifikasi pasta)
+Aplikasi    : Pistachio, hazelnut, almond, pecan, macadamia, cashew, peanut.
+================================================================================
+KOMPOSISI:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 62.0% |       620,0 g |     1.860,0 g
+Dairy Cream 35%                  |  6.5% |        65,0 g |       195,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Nut Paste Component              |  8.0% |        80,0 g |       240,0 g
+Sukrosa                          | 12.5% |       125,0 g |       375,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+Vanilla                          |  0.4% |         4,0 g |        12,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+================================================================================
+MB-05 — FRUIT CREAM BASE
+Batch Target: 3.000 g (Dense Base)
+Allergen    : Milk
+Aplikasi    : Blueberry cream, raspberry mascarpone, banana cream, mango cream.
+================================================================================
+KOMPOSISI:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 59.0% |       590,0 g |     1.770,0 g
+Dairy Cream 35%                  |  7.0% |        70,0 g |       210,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Fruit Puree Component            | 10.0% |       100,0 g |       300,0 g
+Sukrosa                          | 11.5% |       115,0 g |       345,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  1.5% |        15,0 g |        45,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+Vanilla                          |  0.3% |         3,0 g |         9,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+================================================================================
+MB-06 — DESSERT BASE
+Batch Target: 3.000 g (Dense Base)
+Allergen    : Milk (Gluten, Eggs, Soy mengikuti komponen pastry/inclusion)
+Aplikasi    : Tiramisu, biscoff, apple pie, red velvet, shortcake, churros.
+================================================================================
+KOMPOSISI:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 59.0% |       590,0 g |     1.770,0 g
+Dairy Cream 35%                  |  8.0% |        80,0 g |       240,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Dessert Component Allowance      |  9.0% |        90,0 g |       270,0 g
+Sukrosa                          | 11.5% |       115,0 g |       345,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+Vanilla                          |  0.3% |         3,0 g |         9,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+================================================================================
+MB-07 — TEA & COFFEE BASE
+Batch Target: 3.000 g (Dense Base)
+Allergen    : Milk
+Aplikasi    : Matcha, hojicha, earl grey, latte, macchiato, affogato.
+================================================================================
+KOMPOSISI:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5% (Infused/Matrix) | 62.5% |       625,0 g |     1.875,0 g
+Dairy Cream 35%                  |  8.5% |        85,0 g |       255,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Tea / Coffee Extract Component   |  5.0% |        50,0 g |       150,0 g
+Sukrosa                          | 13.0% |       130,0 g |       390,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+Vanilla                          |  0.3% |         3,0 g |         9,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+================================================================================
+MB-08 — SORBET BASE
+Batch Target: 2.500 g (Light Base / Sorbetto)
+Allergen    : None (100% Dairy-Free / Vegan)
+Aplikasi    : Seluruh varian fruit sorbetto dan Midnight Dark Cocoa Sorbet.
+================================================================================
+KOMPOSISI:
+Bahan                            |     % | Batch 1.000 g | Batch 2.500 g
+---------------------------------+-------+---------------+--------------
+Fruit Puree / Juice (50–65%)     | 55.0% |       550,0 g |     1.375,0 g
+Water                            | 22.0% |       220,0 g |       550,0 g
+Sukrosa                          | 12.0% |       120,0 g |       300,0 g
+Dextrose                         |  5.0% |        50,0 g |       125,0 g
+Glucose Powder DE40              |  3.5% |        35,0 g |        87,5 g
+Invert Sugar                     |  1.5% |        15,0 g |        37,5 g
+Soluble Fiber                    |  0.5% |         5,0 g |        12,5 g
+Sorbet Stabilizer                |  0.4% |         4,0 g |        10,0 g
+Acid Balancer (Citrus/Acid Comp) |  0.1% |         1,0 g |         2,5 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     2.500,0 g
+
+
+================================================================================
+MB-09 — SEASONAL SPECIAL BASE
+Batch Target: 3.000 g (Dense Base)
+Allergen    : Mengikuti bahan seasonal aktif
+Aplikasi    : Varian musiman (Gingerbread, Kastengel, Nastar, dll.).
+================================================================================
+KOMPOSISI:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 58.0% |       580,0 g |     1.740,0 g
+Dairy Cream 35%                  |  7.5% |        75,0 g |       225,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Seasonal Character Component     |  9.0% |        90,0 g |       270,0 g
+Sukrosa                          | 11.5% |       115,0 g |       345,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+Vanilla                          |  0.3% |         3,0 g |         9,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+--------------------------------------------------------------------------------
+3. ARSITEKTUR DATA & LOGIKA DATABASE SISTEM RESEP (FIREBASE / SQL)
+--------------------------------------------------------------------------------
+
+A. STRUKTUR HIERARKI RESEP:
+   [MASTER BASE (MB-01 s/d MB-09)]
+              |
+              v
+   [FLAVOR RECIPE FORMULATION]
+              |
+              +---> [CHARACTER COMPONENT (Puree, Paste, Extract, Swirl)]
+              +---> [INCLUSIONS (Biscuit crumb, Brownie, Wafer, Praline)]
+              |
+              v
+   [FINAL PRODUCTION RECIPE (Scaled to Batch Target: 3.000 g / 2.500 g)]
+
+B. SCHEMA DATABASE RESEP:
+
+   Table: master_bases
+   - id                     : String (Primary Key)
+   - code                   : String (MB-01 s/d MB-09)
+   - name                   : String
+   - base_type              : "DENSE" | "LIGHT_SORBET"
+   - standard_batch_weight  : 3000 | 2500
+   - target_fat             : Float
+   - target_msnf            : Float
+   - stabilizer_percent     : Float
+
+   Table: recipes
+   - id                     : String (Primary Key)
+   - flavor_id              : String (Foreign Key)
+   - master_base_id         : String (Foreign Key)
+   - version                : String (e.g., "v1.0")
+   - base_multiplier        : Float
+   - is_active              : Boolean
+
+   Table: ingredients
+   - id                     : String (Primary Key)
+   - name                   : String
+   - fat_percent            : Float
+   - msnf_percent           : Float
+   - dry_solids_percent     : Float
+   - pod_value              : Float
+   - pac_value              : Float
+   - allergen_milk          : Boolean
+   - allergen_egg           : Boolean
+   - allergen_gluten        : Boolean
+   - allergen_soy           : Boolean
+   - allergen_peanut        : Boolean
+   - allergen_tree_nut      : Boolean
+   - allergen_sesame        : Boolean
+
+--------------------------------------------------------------------------------
+4. ATURAN DINAMIS INHERITANCE ALERGEN (DYNAMIC ALLERGEN DECLARATION)
+--------------------------------------------------------------------------------
+Deklarasi Alergen Produk Akhir dihitung secara agregasi otomatis dari seluruh
+bahan aktif yang terdaftar dalam recipe_ingredients:
+
+[Raw Ingredients Allergen Flags] ---> [Recipe Ingredient Aggregation]
+                                                |
+                                                v
+                                  [Final Product Allergen Set]
+
+Contoh:
+- Whole Milk (Milk: TRUE)
+- Hazelnut Paste (Tree Nut: TRUE)
+- Dark Chocolate (Soy: TRUE)
+=> Final Allergen Output: "Contains: Milk, Tree Nuts, Soy"
+================================================================================

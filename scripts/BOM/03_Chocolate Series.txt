@@ -1,0 +1,287 @@
+================================================================================
+BLOC. GELATO — 3/12: CHOCOLATE SERIES FORMULATION RECIPES
+Standard Production Batch: 3.000 g
+Base Archetype: Chocolate Base
+================================================================================
+
+--------------------------------------------------------------------------------
+SOP PARAMETER PRODUKSI (STANDARD OPERATING PROCEDURE)
+--------------------------------------------------------------------------------
+1. BALANCING     : Timbang bahan kering & cair presisi. Emulsikan cokelat leleh.
+2. PASTEURIZING  : Pemanasan & homogenisasi mix gelato.
+3. RAPID COOLING : Penurunan suhu cepat ke 4°C dalam 10–15 menit.
+4. AGING         : 4°C selama 4–12 jam.
+5. CHURNING      : Suhu outlet -5°C s/d -9°C (durasi ±15–20 menit).
+6. BLAST FREEZER : Suhu -30°C s/d -40°C (durasi ±30–45 menit).
+7. TEMPERING     : Suhu inti -11°C s/d -14°C (durasi ±15–30 menit).
+8. SHOWCASE      : Suhu display -14°C s/d -16°C (monitoring real-time).
+
+================================================================================
+MASTER CHOCOLATE BASE (BENCHMARK FORMULA)
+================================================================================
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 60.0% |       600,0 g |     1.800,0 g
+Dairy Cream 35%                  |  8.0% |        80,0 g |       240,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Sukrosa                          | 13.5% |       135,0 g |       405,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.5% |        25,0 g |        75,0 g
+Cocoa Powder (10–12% fat)        |  7.5% |        75,0 g |       225,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+================================================================================
+FORMULA 10 VARIAN CHOCOLATE SERIES
+================================================================================
+
+--------------------------------------------------------------------------------
+01. DARK CHOCOLATE ⭐
+--------------------------------------------------------------------------------
+Master Base : Chocolate Base
+Allergen    : Milk (Soy jika chocolate mengandung soy lecithin)
+Instruksi   : Dark chocolate (70–75%) dilelehkan dan diemulsikan saat balancing.
+              Cocoa powder dicampur bersama dry ingredients.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 59.0% |       590,0 g |     1.770,0 g
+Dairy Cream 35%                  |  7.5% |        75,0 g |       225,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Sukrosa                          | 12.5% |       125,0 g |       375,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Dark Chocolate 70–75%            |  8.0% |        80,0 g |       240,0 g
+Cocoa Powder                     |  3.0% |        30,0 g |        90,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+02. NUTELLA ROCHER
+--------------------------------------------------------------------------------
+Master Base : Chocolate Base
+Allergen    : Milk, Tree Nuts (Hazelnut), Soy (Gluten jika wafer mengandung gandum)
+Instruksi   : Hazelnut-cocoa spread masuk ke base mix; roasted hazelnut praline
+              dan crisped wafer masuk sebagai inclusion di akhir churning.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 57.5% |       575,0 g |     1.725,0 g
+Dairy Cream 35%                  |  7.0% |        70,0 g |       210,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Sukrosa                          | 10.5% |       105,0 g |       315,0 g
+Dextrose                         |  3.0% |        30,0 g |        90,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Hazelnut-Cocoa Spread            |  7.5% |        75,0 g |       225,0 g
+Cocoa Powder                     |  3.0% |        30,0 g |        90,0 g
+Roasted Hazelnut Praline         |  4.5% |        45,0 g |       135,0 g
+Crisped Wafer                    |  0.5% |         5,0 g |        15,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+03. CHOCO MINT FLAKES
+--------------------------------------------------------------------------------
+Master Base : Chocolate Base
+Allergen    : Milk (Soy jika dark chocolate mengandung soy lecithin)
+Instruksi   : Mint component dicampur ke base; lelehan dark chocolate di-drizzle
+              secara stracciatella saat extraction menghasilkan flakes tipis.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 59.0% |       590,0 g |     1.770,0 g
+Dairy Cream 35%                  |  8.0% |        80,0 g |       240,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Sukrosa                          | 12.5% |       125,0 g |       375,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Cocoa Powder                     |  5.5% |        55,0 g |       165,0 g
+Dark Chocolate (Flakes)          |  4.5% |        45,0 g |       135,0 g
+Mint Infusion / Component        |  0.5% |         5,0 g |        15,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+04. CHOCO BROWNIE CHUNK
+--------------------------------------------------------------------------------
+Master Base : Chocolate Base
+Allergen    : Milk, Gluten, Eggs (Soy dari chocolate)
+Instruksi   : Cokelat dan cocoa powder masuk base mix; fudgy brownie chunk
+              masuk sebagai inclusion padat pada akhir tahap churning.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 59.0% |       590,0 g |     1.770,0 g
+Dairy Cream 35%                  |  7.5% |        75,0 g |       225,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Sukrosa                          | 12.0% |       120,0 g |       360,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Cocoa Powder                     |  5.0% |        50,0 g |       150,0 g
+Dark Chocolate                   |  5.5% |        55,0 g |       165,0 g
+Fudgy Brownie Chunk              |  1.0% |        10,0 g |        30,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+05. WHITE CHOCOLATE BERRIES
+--------------------------------------------------------------------------------
+Master Base : Chocolate Base (White Chocolate Matrix)
+Allergen    : Milk (Soy jika white chocolate mengandung soy lecithin)
+Instruksi   : White chocolate dilelehkan dan diemulsikan pada base mix; berry
+              puree/compote diaplikasikan sebagai swirl layer saat dispensing.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 59.0% |       590,0 g |     1.770,0 g
+Dairy Cream 35%                  |  8.0% |        80,0 g |       240,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Sukrosa                          | 10.5% |       105,0 g |       315,0 g
+Dextrose                         |  3.0% |        30,0 g |        90,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+White Chocolate                  |  8.0% |        80,0 g |       240,0 g
+Berry Puree / Swirl              |  4.5% |        45,0 g |       135,0 g
+Sea Salt                         |  0.5% |         5,0 g |        15,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+06. CHOCO CANDIED ORANGE
+--------------------------------------------------------------------------------
+Master Base : Chocolate Base
+Allergen    : Milk (Soy jika chocolate mengandung soy lecithin)
+Instruksi   : Dark chocolate, cocoa, & orange zest/extract dihomogenisasi ke base;
+              candied orange peel dimasukkan di akhir churning.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 58.7% |       587,0 g |     1.761,0 g
+Dairy Cream 35%                  |  7.4% |        74,0 g |       222,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Sukrosa                          | 12.0% |       120,0 g |       360,0 g
+Dextrose                         |  3.0% |        30,0 g |        90,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Cocoa Powder                     |  5.5% |        55,0 g |       165,0 g
+Dark Chocolate                   |  5.5% |        55,0 g |       165,0 g
+Candied Orange Peel              |  1.0% |        10,0 g |        30,0 g
+Orange Component / Zest          |  0.3% |         3,0 g |         9,0 g
+Sea Salt                         |  0.1% |         1,0 g |         3,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+07. SALTED CARAMEL CHOCO TRUFFLE
+--------------------------------------------------------------------------------
+Master Base : Chocolate Base
+Allergen    : Milk (Soy jika chocolate mengandung soy lecithin)
+Instruksi   : Cokelat dan cocoa di-emulsi ke base; caramel component dan
+              chocolate truffle dimasukkan sebagai swirl & inclusion.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 58.0% |       580,0 g |     1.740,0 g
+Dairy Cream 35%                  |  7.5% |        75,0 g |       225,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Sukrosa                          | 10.5% |       105,0 g |       315,0 g
+Dextrose                         |  3.0% |        30,0 g |        90,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Cocoa Powder                     |  5.0% |        50,0 g |       150,0 g
+Dark Chocolate                   |  5.5% |        55,0 g |       165,0 g
+Caramel Component                |  4.0% |        40,0 g |       120,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+08. BELGIAN MILK CHOCOLATE
+--------------------------------------------------------------------------------
+Master Base : Chocolate Base (Milk Chocolate Matrix)
+Allergen    : Milk, Soy
+Instruksi   : Belgian milk chocolate dilelehkan dan dicampurkan saat balancing.
+              Gula sukrosa diturunkan untuk mengimbangi gula dari couverture.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 59.0% |       590,0 g |     1.770,0 g
+Dairy Cream 35%                  |  7.0% |        70,0 g |       210,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Sukrosa                          | 11.0% |       110,0 g |       330,0 g
+Dextrose                         |  3.0% |        30,0 g |        90,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Belgian Milk Chocolate           | 13.0% |       130,0 g |       390,0 g
+Cocoa Powder                     |  0.5% |         5,0 g |        15,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+09. DOUBLE COCOA FUDGE
+--------------------------------------------------------------------------------
+Master Base : Chocolate Base (High Cocoa Solids)
+Allergen    : Milk (Soy dari chocolate)
+Instruksi   : Kombinasi cocoa solids tinggi pada base mix; fudge component
+              ditambahkan sebagai ribbon swirl pekat saat extraction.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 58.5% |       585,0 g |     1.755,0 g
+Dairy Cream 35%                  |  7.0% |        70,0 g |       210,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Sukrosa                          | 11.5% |       115,0 g |       345,0 g
+Dextrose                         |  3.0% |        30,0 g |        90,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Cocoa Powder                     |  8.0% |        80,0 g |       240,0 g
+Dark Chocolate                   |  5.5% |        55,0 g |       165,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+10. CHOCOLATE MARSHMALLOW CRUNCH
+--------------------------------------------------------------------------------
+Master Base : Chocolate Base
+Allergen    : Milk, Soy (Gluten / Eggs sesuai spesifikasi marshmallow & crunch)
+Instruksi   : Base cokelat intens; marshmallow dan crunch component dimasukkan
+              pada tahap akhir churning atau folding saat penarikan ke pan.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 58.5% |       585,0 g |     1.755,0 g
+Dairy Cream 35%                  |  7.5% |        75,0 g |       225,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Sukrosa                          | 11.5% |       115,0 g |       345,0 g
+Dextrose                         |  3.0% |        30,0 g |        90,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Cocoa Powder                     |  5.5% |        55,0 g |       165,0 g
+Dark / Milk Chocolate            |  5.5% |        55,0 g |       165,0 g
+Marshmallow Component            |  2.0% |        20,0 g |        60,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+================================================================================

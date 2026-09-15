@@ -1,0 +1,127 @@
+================================================================================
+BLOC. GELATO — 8/12: TEA SERIES FORMULATION RECIPES
+Standard Production Batch: 3.000 g
+Base Archetype: Tea Base (Master Base 07)
+================================================================================
+
+--------------------------------------------------------------------------------
+SOP PARAMETER PRODUKSI TEA SERIES (STANDARD OPERATING PROCEDURE)
+--------------------------------------------------------------------------------
+1. TEA EXTRACTION: Ekstraksi daun teh (Earl Grey, Jasmine Oolong, Hojicha) melalui
+                   infusi ke dalam susu cair hangat, disaring, dan ditimbang
+                   ulang sebelum proses balancing. Untuk Matcha, bubuk dilarutkan
+                   langsung ke dalam base mix.
+2. BALANCING     : Timbang bahan kering & campurkan bersama larutan susu teh.
+3. PASTEURIZING  : Pemanasan & pasteurisasi mix gelato.
+4. RAPID COOLING : Penurunan suhu cepat ke 4°C dalam 10–15 menit.
+5. AGING         : 4°C selama 4–12 jam untuk hidrasi stabilizer dan maturasi rasa.
+6. CHURNING      : Suhu outlet -5°C s/d -9°C (durasi ±15–20 menit).
+7. BLAST FREEZER : Suhu -30°C s/d -40°C (durasi ±30–45 menit).
+8. TEMPERING     : Suhu inti -11°C s/d -14°C (durasi ±15–30 menit).
+9. SHOWCASE      : Suhu display -14°C s/d -16°C (monitoring real-time).
+
+================================================================================
+FORMULA 4 VARIAN TEA SERIES
+================================================================================
+
+--------------------------------------------------------------------------------
+01. KYOTO OICI MATCHA ⭐
+--------------------------------------------------------------------------------
+Master Base : Tea Base
+Allergen    : Milk
+Instruksi   : Bubuk matcha murni berkualitas tinggi dicampurkan merata dengan
+              bahan kering sebelum blending ke dalam susu untuk mencegah gumpalan.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 62.5% |       625,0 g |     1.875,0 g
+Dairy Cream 35%                  |  8.0% |        80,0 g |       240,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Sukrosa                          | 12.5% |       125,0 g |       375,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Matcha Component                 |  6.0% |        60,0 g |       180,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Vanilla                          |  0.3% |         3,0 g |         9,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+02. EARL GREY LAVENDER MILK
+--------------------------------------------------------------------------------
+Master Base : Tea Base
+Allergen    : Milk
+Instruksi   : Daun teh Earl Grey diinfusikan ke dalam susu cair; sari lavender
+              dikontrol presisi agar aroma floral seimbang dan elegan.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5% (Infused)        | 64.0% |       640,0 g |     1.920,0 g
+Dairy Cream 35%                  |  9.0% |        90,0 g |       270,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Sukrosa                          | 14.5% |       145,0 g |       435,0 g
+Dextrose                         |  3.0% |        30,0 g |        90,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Earl Grey Tea Component          |  2.0% |        20,0 g |        60,0 g
+Lavender Component               |  0.3% |         3,0 g |         9,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Vanilla                          |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+03. JASMINE OOLONG PEACH
+--------------------------------------------------------------------------------
+Master Base : Tea Base
+Allergen    : Milk
+Instruksi   : Teh Jasmine Oolong diekstraksi ke dalam base; puree buah peach
+              dimasukkan saat base dingin untuk mempertahankan kesegaran aroma buah.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 61.0% |       610,0 g |     1.830,0 g
+Dairy Cream 35%                  |  8.0% |        80,0 g |       240,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Peach Puree                      |  6.0% |        60,0 g |       180,0 g
+Sukrosa                          | 13.0% |       130,0 g |       390,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Jasmine Oolong Tea Component     |  1.5% |        15,0 g |        45,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Vanilla                          |  0.3% |         3,0 g |         9,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+04. HOJICHA ROASTED GREEN TEA
+--------------------------------------------------------------------------------
+Master Base : Tea Base
+Allergen    : Milk
+Instruksi   : Hojicha diekstraksi pekat melalui infusi susu untuk menghasilkan rasa
+              roasted & nutty yang halus tanpa tekstur berpasir.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5% (Infused)        | 63.0% |       630,0 g |     1.890,0 g
+Dairy Cream 35%                  |  8.5% |        85,0 g |       255,0 g
+Skim Milk Powder (SMP)           |  4.0% |        40,0 g |       120,0 g
+Sukrosa                          | 14.0% |       140,0 g |       420,0 g
+Dextrose                         |  3.0% |        30,0 g |        90,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Hojicha Tea Component            |  4.0% |        40,0 g |       120,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Vanilla                          |  0.8% |         8,0 g |        24,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+================================================================================

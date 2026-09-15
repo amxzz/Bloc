@@ -1,0 +1,243 @@
+================================================================================
+BLOC. GELATO — 4/12: PEANUT & NUTS SERIES FORMULATION RECIPES
+Standard Production Batch: 3.000 g
+Base Archetype: Nut Base
+================================================================================
+
+--------------------------------------------------------------------------------
+SOP PARAMETER PRODUKSI (STANDARD OPERATING PROCEDURE)
+--------------------------------------------------------------------------------
+1. BALANCING     : Penimbangan presisi. Pasta kacang dihomogenisasi ke dalam
+                   cairan mix untuk dispersi lemak yang merata.
+2. PASTEURIZING  : Pemanasan & homogenisasi mix gelato.
+3. RAPID COOLING : Penurunan suhu cepat ke 4°C dalam 10–15 menit.
+4. AGING         : 4°C selama 4–12 jam.
+5. CHURNING      : Suhu outlet -5°C s/d -9°C (durasi ±15–20 menit).
+6. BLAST FREEZER : Suhu -30°C s/d -40°C (durasi ±30–45 menit).
+7. TEMPERING     : Suhu inti -11°C s/d -14°C (durasi ±15–30 menit).
+8. SHOWCASE      : Suhu display -14°C s/d -16°C (monitoring real-time).
+
+================================================================================
+MASTER NUT BASE (BENCHMARK FORMULA)
+================================================================================
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 62.0% |       620,0 g |     1.860,0 g
+Dairy Cream 35%                  |  6.5% |        65,0 g |       195,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Sukrosa                          | 13.0% |       130,0 g |       390,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Nut Paste                        |  8.0% |        80,0 g |       240,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+================================================================================
+FORMULA 8 VARIAN PEANUT & NUTS SERIES
+================================================================================
+
+--------------------------------------------------------------------------------
+01. PISTACHIO BRONTE ⭐
+--------------------------------------------------------------------------------
+Master Base : Nut Base
+Allergen    : Milk, Tree Nuts (Pistachio) (Soy jika pasta mengandung soy lecithin)
+Instruksi   : Pistachio Bronte paste dihomogenisasi saat blending base agar emulsi
+              lemak nabati menyatu stabil; tanpa pewarna sintetis tambahan.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 62.0% |       620,0 g |     1.860,0 g
+Dairy Cream 35%                  |  6.5% |        65,0 g |       195,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Pistachio Bronte Paste           |  8.0% |        80,0 g |       240,0 g
+Sukrosa                          | 12.5% |       125,0 g |       375,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.1% |         1,0 g |         3,0 g
+Vanilla                          |  0.4% |         4,0 g |        12,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+02. NOCCIOLA PIEMONTE
+--------------------------------------------------------------------------------
+Master Base : Nut Base
+Allergen    : Milk, Tree Nuts (Hazelnut)
+Instruksi   : Hazelnut Piemonte paste dicampurkan pada tahap awal pasteurisasi
+              untuk ekstraksi aroma roasted hazelnut yang maksimal.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 62.0% |       620,0 g |     1.860,0 g
+Dairy Cream 35%                  |  6.5% |        65,0 g |       195,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Hazelnut Piemonte Paste          |  8.0% |        80,0 g |       240,0 g
+Sukrosa                          | 12.5% |       125,0 g |       375,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.1% |         1,0 g |         3,0 g
+Vanilla                          |  0.4% |         4,0 g |        12,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+03. SALTED PEANUT BUTTER CRISP
+--------------------------------------------------------------------------------
+Master Base : Nut Base
+Allergen    : Milk, Peanuts (Gluten jika crisp component mengandung gandum)
+Instruksi   : Peanut butter diemulsikan ke base; peanut crisp dimasukkan sebagai
+              inclusion pada tahap akhir churning.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 61.0% |       610,0 g |     1.830,0 g
+Dairy Cream 35%                  |  6.5% |        65,0 g |       195,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Peanut Butter                    |  7.5% |        75,0 g |       225,0 g
+Sukrosa                          | 12.0% |       120,0 g |       360,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Peanut Crisp Component           |  2.0% |        20,0 g |        60,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.3% |         3,0 g |         9,0 g
+Vanilla                          |  0.2% |         2,0 g |         6,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+04. ALMOND BUTTER & CARAMEL
+--------------------------------------------------------------------------------
+Master Base : Nut Base
+Allergen    : Milk, Tree Nuts (Almond)
+Instruksi   : Almond butter dihomogenisasi ke dalam base mix; caramel component
+              diaplikasikan sebagai ribbon swirl saat penarikan gelato.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 60.5% |       605,0 g |     1.815,0 g
+Dairy Cream 35%                  |  7.0% |        70,0 g |       210,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Almond Butter / Paste            |  7.5% |        75,0 g |       225,0 g
+Sukrosa                          | 11.5% |       115,0 g |       345,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Caramel Component                |  3.0% |        30,0 g |        90,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+Vanilla                          |  0.3% |         3,0 g |         9,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+05. KUROGOMA BLACK SESAME
+--------------------------------------------------------------------------------
+Master Base : Nut Base (Seed Matrix)
+Allergen    : Milk, Sesame
+Instruksi   : Roasted black sesame paste dicampurkan saat balancing base; profil
+              rasa nutty dengan sentuhan savory dan aroma wijen hitam panggang.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 62.0% |       620,0 g |     1.860,0 g
+Dairy Cream 35%                  |  6.5% |        65,0 g |       195,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Black Sesame Paste               |  7.5% |        75,0 g |       225,0 g
+Sukrosa                          | 12.5% |       125,0 g |       375,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.3% |         3,0 g |         9,0 g
+Vanilla                          |  0.7% |         7,0 g |        21,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+06. PECAN MAPLE CRUNCH
+--------------------------------------------------------------------------------
+Master Base : Nut Base
+Allergen    : Milk, Tree Nuts (Pecan) (Gluten jika crunch menggunakan sereal gandum)
+Instruksi   : Toasted pecan paste diemulsikan ke base; maple crunch component
+              dimasukkan pada akhir proses churning sebagai tekstur renyah.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 61.5% |       615,0 g |     1.845,0 g
+Dairy Cream 35%                  |  6.5% |        65,0 g |       195,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Pecan Paste                      |  6.5% |        65,0 g |       195,0 g
+Sukrosa                          | 11.5% |       115,0 g |       345,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Maple Crunch Component           |  3.0% |        30,0 g |        90,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+Vanilla                          |  0.3% |         3,0 g |         9,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+07. MACADAMIA WHITE VELVET
+--------------------------------------------------------------------------------
+Master Base : Nut Base
+Allergen    : Milk, Tree Nuts (Macadamia), Soy (jika white chocolate menggunakan soy lecithin)
+Instruksi   : Macadamia paste dan white chocolate leleh diemulsikan ke base mix
+              saat proses pasteurisasi untuk menghasilkan tekstur velvet.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 60.0% |       600,0 g |     1.800,0 g
+Dairy Cream 35%                  |  6.5% |        65,0 g |       195,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Macadamia Paste                  |  6.5% |        65,0 g |       195,0 g
+White Chocolate                  |  7.0% |        70,0 g |       210,0 g
+Sukrosa                          | 10.5% |       105,0 g |       315,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  1.5% |        15,0 g |        45,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+Vanilla                          |  0.3% |         3,0 g |         9,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+
+
+--------------------------------------------------------------------------------
+08. CASHEW HONEY PRALINE
+--------------------------------------------------------------------------------
+Master Base : Nut Base
+Allergen    : Milk, Tree Nuts (Cashew)
+Instruksi   : Cashew praline dan natural honey dicampurkan ke base mix saat
+              tahap balancing untuk menghasilkan aroma madu dan kacang mete panggang.
+
+KOMPOSISI RESEP:
+Bahan                            |     % | Batch 1.000 g | Batch 3.000 g
+---------------------------------+-------+---------------+--------------
+Whole Milk 3.5%                  | 61.0% |       610,0 g |     1.830,0 g
+Dairy Cream 35%                  |  6.5% |        65,0 g |       195,0 g
+Skim Milk Powder (SMP)           |  4.5% |        45,0 g |       135,0 g
+Cashew Praline Component         |  8.0% |        80,0 g |       240,0 g
+Sukrosa                          | 11.5% |       115,0 g |       345,0 g
+Dextrose                         |  3.5% |        35,0 g |       105,0 g
+Glucose Powder DE40              |  2.0% |        20,0 g |        60,0 g
+Honey (Madu Murni)               |  2.0% |        20,0 g |        60,0 g
+Base 5                           |  0.5% |         5,0 g |        15,0 g
+Sea Salt                         |  0.2% |         2,0 g |         6,0 g
+Vanilla                          |  0.3% |         3,0 g |         9,0 g
+---------------------------------+-------+---------------+--------------
+TOTAL                            |  100% |     1.000,0 g |     3.000,0 g
+================================================================================
