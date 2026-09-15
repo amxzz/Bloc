@@ -48,11 +48,7 @@ The application implements a strict 4-role access control system (Owner, Manager
 
 ```
 system-bloc-gelato/
-├── docs/                             # Database Schemas & Initial Seed SQL Files
-│   ├── 01_schema_structure.sql       # DDL: 14 Tables, RLS Policies, Triggers
-│   ├── 02_seed_initial_data.sql       # DML: Profiles, 69 Flavors, Inventory, Showcase
-│   ├── 03_seed_bom_recipes.sql       # DML: 69 Master Recipes & 612 BOM Ingredients
-│   └── database_schema.sql           # Unified Single SQL Script for Supabase SQL Editor
+├── public/                           # Public Static Assets and Brand Logos
 ├── src/
 │   ├── app/                          # Next.js App Router Layouts and Pages
 │   ├── components/                   # Modular Role-Based UI Components
@@ -62,7 +58,8 @@ system-bloc-gelato/
 │   ├── store/                        # Zustand Global Stores
 │   └── types/                        # TypeScript Type Definitions
 ├── supabase/
-│   └── migrations/                   # Supabase CLI Migration Files
+│   └── migrations/                   # Supabase SQL Schema and Seed Migrations
+│       └── 01_initial_schema.sql     # Unified Single SQL Script (DDL + DML)
 ├── .env.example                      # Environment Variable Template
 ├── .gitignore                        # Version Control Exclusion Configuration
 ├── package.json                      # Project Manifest and Scripts
@@ -81,7 +78,7 @@ system-bloc-gelato/
 ### 1. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/amxzz/Bloc..git
+git clone https://github.com/amxzz/Bloc.git
 cd system-bloc-gelato
 npm install
 ```
@@ -101,8 +98,8 @@ NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_key_here
 ### 3. Database Initialization
 1. Log in to your Supabase Dashboard and navigate to your project.
 2. Open the SQL Editor and click New Query.
-3. Copy the entire contents of `docs/database_schema.sql` and paste it into the editor.
-4. Execute the query to initialize all 14 tables, RLS policies, 69 flavor formulations, and 612 recipe ingredients.
+3. Copy the entire contents of `supabase/migrations/01_initial_schema.sql` and paste it into the editor.
+4. Execute the query to initialize all 14 tables, RLS policies, 69 flavor formulations, 146 inventory items, and 612 recipe ingredients.
 
 ### 4. Running Locally
 Start the development server:
