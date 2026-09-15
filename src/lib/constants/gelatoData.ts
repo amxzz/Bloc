@@ -662,3 +662,16 @@ export const GELATO_FLAVORS: GelatoFlavor[] = [
     maxCapacityGram: 3000,
   },
 ];
+
+export const GELATO_SERIES_META: Record<string, { badgeBg: string; badgeText: string; borderColor: string }> = {
+  All: { badgeBg: "bg-slate-100", badgeText: "text-slate-700", borderColor: "border-slate-200" },
+  Milk: { badgeBg: "bg-blue-50", badgeText: "text-blue-700", borderColor: "border-blue-200" },
+  Chocolate: { badgeBg: "bg-amber-50", badgeText: "text-amber-900", borderColor: "border-amber-200" },
+  "Peanut & Nuts": { badgeBg: "bg-orange-50", badgeText: "text-orange-800", borderColor: "border-orange-200" },
+  Fruit: { badgeBg: "bg-rose-50", badgeText: "text-rose-700", borderColor: "border-rose-200" },
+  "Dairy-Free": { badgeBg: "bg-emerald-50", badgeText: "text-emerald-700", borderColor: "border-emerald-200" },
+  Dessert: { badgeBg: "bg-purple-50", badgeText: "text-purple-700", borderColor: "border-purple-200" },
+  Tea: { badgeBg: "bg-teal-50", badgeText: "text-teal-700", borderColor: "border-teal-200" },
+  Coffee: { badgeBg: "bg-stone-100", badgeText: "text-stone-800", borderColor: "border-stone-300" },
+  Seasonal: { badgeBg: "bg-yellow-50", badgeText: "text-yellow-800", borderColor: "border-yellow-300" },
+};

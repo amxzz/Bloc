@@ -1,8 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { GELATO_SERIES, GELATO_FLAVORS } from "@/lib/constants/gelatoData";
-import { GELATO_SERIES_META } from "@/lib/firebase/seedData";
+import { GELATO_SERIES, GELATO_FLAVORS, GELATO_SERIES_META } from "@/lib/constants/gelatoData";
 import { useNotificationStore } from "@/store/useNotificationStore";
 import { ShowcaseSlot, GelatoFlavor } from "@/types/kitchen";
 import { Search, Plus, AlertCircle, CheckCircle2 } from "lucide-react";

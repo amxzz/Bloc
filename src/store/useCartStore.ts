@@ -9,7 +9,7 @@ import { PricingEngine } from "@/lib/business-rules/pricingEngine";
 import { InventoryRules } from "@/lib/business-rules/inventoryRules";
 import { TransactionSnapshotBuilder } from "@/lib/business-rules/transactionSnapshot";
 import { generateStandardId } from "@/lib/utils/formatters";
-import { SEED_MEMBERS } from "@/lib/firebase/seedData";
+import { SEED_MEMBERS } from "@/lib/constants/membersData";
 
 interface CartState {
   items: CartItem[];
