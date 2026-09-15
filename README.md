@@ -1,4 +1,4 @@
-# 🍨 BLOC. Gelato System — Enterprise Resource Planning (ERP)
+# BLOC. Gelato System — Enterprise Resource Planning (ERP)
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.0%2B-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
