@@ -232,7 +232,7 @@ export default function PaymentSection({
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-900/60 backdrop-blur-xs p-4 animate-in fade-in select-none">
           <div className="w-full max-w-sm bg-white rounded-[32px] p-6 shadow-2xl border border-slate-100 flex flex-col max-h-[90vh]">
             {/* Inner Receipt White Card */}
-            <div className="flex-1 overflow-y-auto rounded-2xl border border-slate-200 p-4 bg-white font-mono text-xs text-slate-800 space-y-3 pr-2">
+            <div className="flex-1 overflow-y-auto max-h-[65vh] rounded-2xl border border-slate-200 p-4 bg-white font-mono text-xs text-slate-800 space-y-3 [scrollbar-width:none] [-ms-overflow-style:none] [&::-webkit-scrollbar]:hidden">
               {/* Header */}
               <div className="text-center space-y-1">
                 <div className="flex justify-center pb-1">
@@ -246,8 +246,7 @@ export default function PaymentSection({
                   />
                 </div>
                 <h2 className="font-bold text-sm text-[#2D3D6E] tracking-wider">BLOC. GELATO</h2>
-                <p className="text-[11px] text-slate-500">Artisanal Italian Gelato</p>
-                <p className="text-[10px] text-slate-400">Flagship Store</p>
+                <p className="text-[11px] text-slate-500">Italian Gelato</p>
               </div>
 
               {/* Receipt Metadata */}
@@ -259,8 +258,8 @@ export default function PaymentSection({
                 <div className="border-b border-dotted border-slate-300" />
               </div>
 
-              {/* Items List - Scrollable */}
-              <div className="space-y-2 py-1 max-h-[160px] overflow-y-auto pr-1">
+              {/* Items List */}
+              <div className="space-y-2 py-1">
                 {completedTrx.items.map((item, idx) => (
                   <div key={idx} className="space-y-0.5">
                     <div className="flex justify-between items-center text-xs font-bold text-slate-900">
