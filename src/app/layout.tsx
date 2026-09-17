@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import NotificationContainer from "@/components/common/notifications/NotificationContainer";
@@ -26,6 +26,13 @@ export const metadata: Metadata = {
     shortcut: "/assets/logo%20peramban.svg",
     apple: "/assets/logo%20peramban.svg",
   },
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
 };
 
 export default function RootLayout({

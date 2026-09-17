@@ -178,9 +178,9 @@ export default function PosSection() {
 
   return (
     <div className="relative">
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 max-w-7xl select-none">
+      <div className="grid grid-cols-1 md:grid-cols-12 gap-4 sm:gap-6 max-w-7xl select-none">
         {/* Left 2 Cols: Gelato Flavor Catalog */}
-        <div className="lg:col-span-2 space-y-4">
+        <div className="md:col-span-7 lg:col-span-8 space-y-4">
           <CatalogSection
             activeShowcaseFlavors={slots}
             onOpenConfigurator={handleOpenConfigurator}
@@ -188,7 +188,7 @@ export default function PosSection() {
         </div>
 
         {/* Right 1 Col: Active Order & Cart */}
-        <div className="space-y-4">
+        <div className="md:col-span-5 lg:col-span-4 space-y-4">
           <OrderSection
             items={items}
             holdOrdersCount={holdOrders.length}
@@ -333,37 +333,37 @@ export default function PosSection() {
 
       {/* NON-DISMISSIBLE BLOCKING MODAL: OPEN SHIFT CASHIER (EXACT LOGIN PAGE STYLING) */}
       {isShiftClosed && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-950/70 backdrop-blur-md p-4 animate-in fade-in select-none">
-          <div className="w-full max-w-md bg-white rounded-[32px] p-8 sm:p-10 shadow-[0_24px_70px_rgba(45,61,110,0.15)] border border-slate-100 space-y-6 animate-in zoom-in-95">
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-950/70 backdrop-blur-md p-4 sm:p-6 animate-in fade-in select-none">
+          <div className="w-full max-w-md sm:max-w-lg md:max-w-xl bg-white rounded-[32px] p-6 sm:p-8 md:p-10 shadow-[0_24px_70px_rgba(45,61,110,0.15)] border border-slate-100 space-y-6 animate-in zoom-in-95">
             <div className="text-center space-y-1.5 pb-2">
-              <h3 className="text-2xl font-extrabold text-[#2D3D6E] tracking-tight">
+              <h3 className="text-2xl sm:text-3xl font-extrabold text-[#2D3D6E] tracking-tight">
                 Open Register Shift
               </h3>
-              <p className="text-xs text-[#2D3D6E]/70 font-medium">
+              <p className="text-xs sm:text-sm text-[#2D3D6E]/70 font-medium">
                 Enter initial cash float to activate the POS workstation terminal
               </p>
             </div>
 
-            <form onSubmit={handleOpenShiftSubmit} className="space-y-4">
+            <form onSubmit={handleOpenShiftSubmit} className="space-y-4 sm:space-y-5">
               <div className="space-y-1.5">
-                <label className="block text-xs font-bold text-[#2D3D6E] px-1">
+                <label className="block text-xs sm:text-sm font-bold text-[#2D3D6E] px-1">
                   Staff On Duty
                 </label>
-                <div className="px-4 py-3 bg-slate-50 rounded-full border border-slate-200 text-xs font-mono font-bold text-[#2D3D6E] flex items-center justify-between">
+                <div className="px-4 py-3 sm:py-3.5 bg-slate-50 rounded-full border border-slate-200 text-xs sm:text-sm font-mono font-bold text-[#2D3D6E] flex items-center justify-between">
                   <span>{currentUser?.fullName || "Sarah Jenkins"}</span>
-                  <span className="text-[10px] text-[#2D3D6E]/50">@{currentUser?.username || "csh_sarah"}</span>
+                  <span className="text-[10px] sm:text-xs text-[#2D3D6E]/50">@{currentUser?.username || "csh_sarah"}</span>
                 </div>
               </div>
 
               <div className="space-y-1.5">
-                <label className="block text-xs font-bold text-[#2D3D6E] px-1">
+                <label className="block text-xs sm:text-sm font-bold text-[#2D3D6E] px-1">
                   Shift Schedule
                 </label>
-                <div className="grid grid-cols-2 gap-2">
+                <div className="grid grid-cols-2 gap-2.5">
                   <button
                     type="button"
                     onClick={() => setOpenShiftNumber(1)}
-                    className={`py-2.5 px-3 rounded-full border text-xs font-bold transition-all ${
+                    className={`py-3 px-4 rounded-full border text-xs sm:text-sm font-bold transition-all ${
                       openShiftNumber === 1
                         ? "bg-[#2D3D6E] border-[#2D3D6E] text-white shadow-xs"
                         : "bg-white border-slate-200 text-slate-700 hover:bg-slate-50"
@@ -374,7 +374,7 @@ export default function PosSection() {
                   <button
                     type="button"
                     onClick={() => setOpenShiftNumber(2)}
-                    className={`py-2.5 px-3 rounded-full border text-xs font-bold transition-all ${
+                    className={`py-2.5 sm:py-3 px-4 rounded-full border text-xs sm:text-sm font-bold transition-all ${
                       openShiftNumber === 2
                         ? "bg-[#2D3D6E] border-[#2D3D6E] text-white shadow-xs"
                         : "bg-white border-slate-200 text-slate-700 hover:bg-slate-50"
@@ -387,13 +387,13 @@ export default function PosSection() {
 
               <div className="space-y-1.5">
                 <div className="flex items-center justify-between px-1">
-                  <label className="text-xs font-bold text-[#2D3D6E]">
+                  <label className="text-xs sm:text-sm font-bold text-[#2D3D6E]">
                     Opening Cash Float (IDR)
                   </label>
-                  <span className="text-[10px] font-mono text-[#2D3D6E]/50">Drawer Balance</span>
+                  <span className="text-[10px] sm:text-xs font-mono text-[#2D3D6E]/50">Drawer Balance</span>
                 </div>
                 <div className="relative">
-                  <span className="absolute left-4 top-1/2 -translate-y-1/2 text-xs font-mono font-bold text-[#2D3D6E]/50">
+                  <span className="absolute left-4 top-1/2 -translate-y-1/2 text-xs sm:text-sm font-mono font-bold text-[#2D3D6E]/50">
                     Rp
                   </span>
                   <input
@@ -402,14 +402,14 @@ export default function PosSection() {
                     step={10000}
                     value={openingFloat}
                     onChange={(e) => setOpeningFloat(Number(e.target.value) || 0)}
-                    className="w-full pl-11 pr-4 py-3 rounded-full border border-slate-200 font-mono text-xs font-bold text-[#2D3D6E] focus:ring-4 focus:ring-[#2D3D6E]/10 focus:border-[#2D3D6E] focus:outline-hidden"
+                    className="w-full pl-11 pr-4 py-3 sm:py-3.5 rounded-full border border-slate-200 font-mono text-xs sm:text-sm font-bold text-[#2D3D6E] focus:ring-4 focus:ring-[#2D3D6E]/10 focus:border-[#2D3D6E] focus:outline-hidden"
                     required
                   />
                 </div>
 
                 {/* Quick Float Preset Buttons */}
-                <div className="flex items-center gap-1.5 pt-1 px-1">
-                  <span className="text-[10px] text-[#2D3D6E]/60 font-semibold">Preset:</span>
+                <div className="flex items-center gap-2 pt-1 px-1">
+                  <span className="text-[10px] sm:text-xs text-[#2D3D6E]/60 font-semibold">Preset:</span>
                   {[
                     { value: 200000, label: "200k" },
                     { value: 500000, label: "500k" },
@@ -419,7 +419,7 @@ export default function PosSection() {
                       key={preset.value}
                       type="button"
                       onClick={() => setOpeningFloat(preset.value)}
-                      className={`text-[10px] font-mono font-bold px-2.5 py-1 rounded-full border transition-all ${
+                      className={`text-[10px] sm:text-xs font-mono font-bold px-3 py-1 sm:py-1.5 rounded-full border transition-all ${
                         openingFloat === preset.value
                           ? "bg-[#F0E79D] text-[#2D3D6E] border-[#2D3D6E]/30 font-extrabold"
                           : "bg-slate-50 text-slate-600 border-slate-200 hover:bg-slate-100"
@@ -434,10 +434,10 @@ export default function PosSection() {
               <div className="pt-2">
                 <button
                   type="submit"
-                  className="w-full py-3.5 px-6 bg-[#2D3D6E] hover:bg-[#1C2646] active:scale-[0.99] text-white text-xs font-bold rounded-full shadow-lg shadow-[#2D3D6E]/20 transition-all flex items-center justify-center gap-2 cursor-pointer"
+                  className="w-full py-3.5 sm:py-4 px-6 bg-[#2D3D6E] hover:bg-[#1C2646] active:scale-[0.99] text-white text-xs sm:text-sm font-bold rounded-full shadow-lg shadow-[#2D3D6E]/20 transition-all flex items-center justify-center gap-2 cursor-pointer"
                 >
                   <span>Open Shift & Access Terminal</span>
-                  <ArrowRight className="w-4 h-4" />
+                  <ArrowRight className="w-4 h-4 sm:w-5 sm:h-5" />
                 </button>
               </div>
             </form>

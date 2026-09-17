@@ -43,12 +43,15 @@ interface NavItem {
 export default function Sidebar() {
   const pathname = usePathname();
   const { currentUser } = useAuthStore();
-  const { isCollapsed, toggleSidebar } = useSidebarStore();
+  const { isCollapsed, toggleSidebar, setCollapsed } = useSidebarStore();
 
   const [mounted, setMounted] = useState(false);
   useEffect(() => {
     setMounted(true);
-  }, []);
+    if (typeof window !== "undefined" && window.innerWidth < 1024) {
+      setCollapsed(true);
+    }
+  }, [setCollapsed]);
 
   const currentRole: UserRole = currentUser?.role || "cashier";
 
