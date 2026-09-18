@@ -22,6 +22,18 @@
   --foreground: #2D3D6E;
 }
 
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+}
+
+/* Tablet & iPad POS Terminal Font & UI Scaling */
+@media (min-width: 640px) and (max-width: 1280px) {
+  html {
+    font-size: 18px;
+  }
+}
+
 body {
   background-color: var(--background);
   color: var(--foreground);

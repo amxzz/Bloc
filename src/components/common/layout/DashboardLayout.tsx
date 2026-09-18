@@ -16,12 +16,12 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
 
   return (
     <RoleGuard>
-      <div className="flex h-screen w-screen overflow-hidden bg-[#F6F8FC] text-slate-900 select-none">
+      <div className="flex h-dvh min-h-screen w-full overflow-hidden bg-[#F6F8FC] text-slate-900 select-none">
         {/* Fixed Brand Navy Sidebar */}
         <Sidebar />
 
         {/* Main Content Area */}
-        <div className="flex-1 flex flex-col h-screen min-w-0 overflow-hidden">
+        <div className="flex-1 flex flex-col h-dvh min-h-0 min-w-0 overflow-hidden">
           <Header onLockClick={() => setIsLockTriggerOpen(true)} />
 
           {/* Scrollable Page Body with Clean Login Aesthetic */}
